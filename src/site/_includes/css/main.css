@@ -25,12 +25,12 @@
 :root {
   --primary-color: #000;
   --secondary-color: #fff;
-  --font-size-step-0: 11px;
-  --font-size-step-1: 11px;
-  --font-size-step-2: 11px;
-  --font-size-step-3: 16px;
-  --font-size-step-4: 22px;
-  --font-size-step-5: 44px;
+  --font-size-step-0: 100%;
+  --font-size-step-1: 100%;
+  --font-size-step-2: 100%;
+  --font-size-step-3: 120%;
+  --font-size-step-4: 150%;
+  --font-size-step-5: 300%;
   --padding-step-1: 5px;
   --padding-step-2: 10px;
   --padding-step-3: 25px;

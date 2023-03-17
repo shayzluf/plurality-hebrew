@@ -49,12 +49,13 @@ const interactiveTypeBlack = (p) => {
   }
 
   p.mouseWheel = function(event) {
+    const rangeStep = 10;
     if (event.delta > 0 && mutationRange[0] < 0) {
-      mutationRange = [mutationRange[0] + 1, mutationRange[1] - 1];
+      mutationRange = [mutationRange[0] + rangeStep, mutationRange[1] - rangeStep];
       gridSize += 0.1;
     } 
     if (event.delta < 0 && gridSize > 1 && mutationRange[0] > initialMutationLowerBound) {
-      mutationRange = [mutationRange[0] - 1, mutationRange[1] + 1];
+      mutationRange = [mutationRange[0] - rangeStep, mutationRange[1] + rangeStep];
       gridSize -= 0.1;
     }
   }
