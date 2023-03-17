@@ -11,14 +11,8 @@ translations:
     return: 'return',
     chapters: 'chapters',
   }
-language: { en: 'english', iso6392B: 'eng', locale: '02 Introduction' }
+language: { en: 'english', iso6392B: 'eng', locale: '2 Introduction' }
 chapterid: { chapterid_subid: '02'}
 translators: []
 ---
-# Body start
 {{github.return_url_02}}
-"https://raw.githubusercontent.com/alexrandaccio/plurality.net/main/src/site/versions/english.md"
-"("https://raw.githubusercontent.com/pluralitybook/plurality/main/LICENSE")"
-
-# foot note1
-# foot note2
