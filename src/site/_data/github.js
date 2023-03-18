@@ -1,22 +1,36 @@
 const fetch = require("node-fetch");
+const read_url = async (url) => {
+      return fetch(url = url)
+        .then(res => {
+            if (res.status != 200){
+                console.log(res);
+                const return_message = `Content retrieval error ${res.status} ${res.statusText}`
+                return return_message;
+            } else {
+                return res.text()
+            }
+        })
+        .then(text => {
+            return text;
+        })
+        .catch(err => {
+          console.log("retrieval error catch")
+          const return_message = `Configured content URL is not reacheable at ${url}`
+          return return_message;
+        })
+}
 
 module.exports = async function() {
-  console.log( "Fetching new github page" );
-  url_02 = "https://raw.githubusercontent.com/pluralitybook/plurality/main/Introduction/Plurality%20Intro%20First%20Commit.adoc"
-  url_03_01 = "https://raw.githubusercontent.com/pluralitybook/plurality/main/Plural%20World%20ascii/Plural%20World%20first%20commit.adoc"
-  let return_url_02 = "";
-  return fetch(url = url_02)
-    .then(res => res.text()) // node-fetch option to transform to json
-    .then(text => {
-      return_url_02 = text;
+    let return_content = {}
 
-        return fetch(url = url_03_01)
-        .then(res => res.text()) // node-fetch option to transform to json
-        .then(text => {
-          return {
-              return_url_02: return_url_02,
-              return_url_03_01: text
-          }
-        });
-    });
-};
+    urls = {
+        return_url_02: "https://raw.githubusercontent.com/pluralitybook/plurality/main/Introduction/Plurality%20Intro%20First%20Commit.adoc",
+        return_url_03_01: "https://raw.githubusercontent.com/pluralitybook/plurality/main/Plural%20World%20ascii/Plural%20World%20first%20commit.adoc"
+    }
+
+    for (let url_item in urls) {
+        console.log(url_item, urls[url_item]);
+        return_content[url_item] = await read_url(urls[url_item])
+    }
+    return return_content;
+}

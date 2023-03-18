@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter 02',
     subtitle: 'Introduction',
-    authorsLead: 'By Audrey Tang and E. Glen Weyl',
+    authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',

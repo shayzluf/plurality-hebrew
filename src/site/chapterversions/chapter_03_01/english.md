@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter 03 01',
     subtitle: 'Living in a Prural World',
-    authorsLead: 'By Audrey Tang and E. Glen Weyl',
+    authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',
