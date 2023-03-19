@@ -49,12 +49,11 @@ const interactiveTypeBlack = (p) => {
   }
 
   p.mouseMoved = function(event) {
-    console.log(event);
-    mutationRange = [mutationRange[0] + 1, mutationRange[1] - 1];
-    gridSize += 0.1;
-    if (mutationRange[0] > 0) {
+    if (mutationRange[0] < 0) {
+      mutationRange = [mutationRange[0] + 1, mutationRange[1] - 1];
+      gridSize += 0.1;
+    } else {
       mutationRange = [0, 0];
-      gridSize = 0;
     }
 
     /*if (event.delta > 0 && mutationRange[0] < 0) {
