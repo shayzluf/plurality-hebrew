@@ -11,8 +11,6 @@ const read_url = async (url) => {
             }
         })
         .then(text => {
-            // text = text.replaceAll("/figs","https://raw.githubusercontent.com/pluralitybook/plurality/main/figs")
-            text = text + '<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/private.png\" width=\"100%\">'
             return text;
         })
         .catch(err => {
@@ -25,9 +23,13 @@ const read_url = async (url) => {
 module.exports = async function() {
     let return_content = {}
 
+    // urls = {
+    //     return_url_02: "https://raw.githubusercontent.com/pluralitybook/plurality/main/introduction.md",
+    //     return_url_03_01: "https://raw.githubusercontent.com/pluralitybook/plurality/main/pluralworld.md"
+    // }
     urls = {
-        return_url_02: "https://raw.githubusercontent.com/pluralitybook/plurality/main/introduction.md",
-        return_url_03_01: "https://raw.githubusercontent.com/pluralitybook/plurality/main/pluralworld.md"
+        return_url_02: "https://raw.githubusercontent.com/akinorioyama/plurality/main/introduction.md",
+        return_url_03_01: "https://raw.githubusercontent.com/akinorioyama/plurality/main/pluralworld.md"
     }
 
     for (let url_item in urls) {
