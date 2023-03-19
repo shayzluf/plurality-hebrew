@@ -1,6 +1,6 @@
 ---
 title: 'Plurality: Living in a Plural World'
-githubLink: ' https://github.com/pluralitybook/plurality/blob/main/Plural%20World%20ascii/Plural%20World%20first%20commit.adoc'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/pluralworld.md'
 dateStartedString: { day: '20', month: '03', year: '2023' }
 translations:
   {

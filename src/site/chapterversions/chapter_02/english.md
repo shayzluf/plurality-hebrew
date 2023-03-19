@@ -1,6 +1,6 @@
 ---
 title: 'Plurality: Introduction'
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/Introduction/Plurality%20Intro%20First%20Commit.adoc'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/introduction.md'
 dateStartedString: { day: '20', month: '03', year: '2023' }
 translations:
   {
