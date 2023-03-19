@@ -136,7 +136,7 @@
 }
 
 #mobile-nav-overlay-wrapper > #mobile-nav-overlay > div {
-  margin-bottom: var(--padding-step-2);
+  margin-bottom: 2px;
 }
 
 #mobile-nav-overlay-wrapper > #mobile-nav-overlay > div > a {

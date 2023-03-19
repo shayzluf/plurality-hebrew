@@ -5,8 +5,15 @@ permalink: "/"
 
 {%- from './_includes/macros/version-menu-item.njk' import versionMenuItem -%}
 
+<table>
+<tr><td>
 <div id="version-menu">
   <ol id="version-ol">
+  <div>
+      <li style="font-size:250%">
+      Announcement
+      </li>
+      </div>
     {% for version in collections.versions %}
       <li class="version-item">
         {{ versionMenuItem( 
@@ -24,3 +31,30 @@ permalink: "/"
     {% endfor %}
   </ol>
 </div>
+</td>
+<td>
+<div id="version-menu">
+  <ol id="version-ol">
+      <li style="font-size:250%">
+      Chapters
+      </li>
+    {% for version in collections.chapterversions %}
+      <li class="version-item">
+        {{ versionMenuItem(
+          githubLink = version.data.githubLink,
+          dayStarted = version.data.dateStartedString.day,
+          monthStarted = version.data.dateStartedString.month,
+          yearStarted = version.data.dateStartedString.year,
+          language = version.data.language.locale,
+          contributeTranslated = version.data.translations.contribute,
+          pluralityTranslated = version.data.translations.plurality,
+          pageTitle = version.data.title,
+          pageUrl = version.url)
+        }}
+      </li>
+    {% endfor %}
+  </ol>
+</div>
+</td>
+</tr>
+</table>
