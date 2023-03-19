@@ -6,11 +6,12 @@ module.exports = function(eleventyConfig) {
     'md',
     markdownIt = require('markdown-it')({
       html: true
-    }).use(require('markdown-it-anchor')
-  ));
-
+    }).use(require('markdown-it-anchor'))
+      .use(require('markdown-it-footnote'))
+    );
   eleventyConfig.addPlugin(pluginTOC, {
     tags: ['h1', 'h2', 'h3'],
+    ul: true,
     wrapper: 'div'
   });
 
@@ -28,6 +29,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "src/site/_includes/css/*.css" : "assets/css",
     "src/site/_includes/js/*.js" : "assets/js",
+    "src/site/_includes/favicons/*.png" : "assets/favicons",
     "src/site/_data/fonts/authentic-sans/*" : "assets/fonts/authentic-sans",
     "src/site/_data/fonts/lanapixel/*" : "assets/fonts/lanapixel",
   });
