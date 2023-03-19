@@ -6,9 +6,9 @@ module.exports = function(eleventyConfig) {
     'md',
     markdownIt = require('markdown-it')({
       html: true
-    }).use(require('markdown-it-anchor')
-  ));
-
+    }).use(require('markdown-it-anchor'))
+      .use(require('markdown-it-footnote'))
+    );
   eleventyConfig.addPlugin(pluginTOC, {
     tags: ['h1', 'h2', 'h3'],
     ul: true,
