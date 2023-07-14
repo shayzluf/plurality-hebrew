@@ -9,9 +9,9 @@ translations:
     authorsLead: '由唐鳳及格倫·韋爾著作',
     translatorsLead: 'Translated by:',
     return: 'return',
-    chapters: '章节',
+    chapters: '章節',
   }
-language: { en: 'chinese', iso6392B: 'chi', locale: '華文' }
+language: { en: 'chinese', iso6392B: 'zh-TW', locale: '華文' }
 translators:
   [
     Noah Yeh,
