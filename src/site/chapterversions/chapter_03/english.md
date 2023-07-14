@@ -1,5 +1,5 @@
 ---
-title: 'Plurality: Living in a Plural World'
+title: 'Living in a Plural World'
 githubLink: 'https://github.com/pluralitybook/plurality/blob/main/pluralworld.md'
 dateStartedString: { day: '20', month: '03', year: '2023' }
 translations:
@@ -12,7 +12,7 @@ translations:
     chapters: 'chapters',
   }
 language: { en: 'english', iso6392B: 'eng', locale: 'III Living in a Plural World' }
-chapterid: { chapterid_subid: 'III'}
+chapterid: { chapterid: 3, chapterid_subid: '03-01'}
 translators: []
 ---
-{{github.return_url_03}}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/pluralworld.md' %}
