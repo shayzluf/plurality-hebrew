@@ -11,7 +11,7 @@ translations:
     return: 'return',
     chapters: '章節',
   }
-language: { en: 'chinese', iso6392B: 'chi', locale: '華文' }
+language: { en: 'chinese', iso6392B: 'zh-TW', locale: '華文' }
 translators:
   [
     Noah Yeh,
