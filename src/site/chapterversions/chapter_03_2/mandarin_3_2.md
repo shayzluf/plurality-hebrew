@@ -1,11 +1,11 @@
 ---
 title: ''
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%8B%E4%BA%8C%20%E8%A2%AB%E9%81%BA%E5%BF%98%E7%9A%84%E9%81%93.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%8B%E4%BA%8C%20%E6%88%91%E5%80%91%E9%81%BA%E5%BF%98%E7%9A%84%E9%81%93.md'
 dateStartedString: { day: '01', month: '08', year: '2023' }
 translations:
   {
     plurality: 'Chapter III 2',
-    subtitle: '被遺忘的道',
+    subtitle: '我們遺忘的道',
     authorsLead: '',
     translatorsLead: '譯者:',
     return: 'return',
@@ -15,4 +15,4 @@ language: { en: 'Mandarin/華文', iso6392B: 'zh-TW', locale: 'III The Lost Dao 
 chapterid: { chapterid: 3, chapterid_subid: '03-02'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%8B%E4%BA%8C%20%E8%A2%AB%E9%81%BA%E5%BF%98%E7%9A%84%E9%81%93.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%8B%E4%BA%8C%20%E6%88%91%E5%80%91%E9%81%BA%E5%BF%98%E7%9A%84%E9%81%93.md' %}
