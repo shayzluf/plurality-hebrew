@@ -1,5 +1,5 @@
 ---
-title: 'Preface'
+title: 'Preface: Seeing Plural'
 githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/preface.md'
 dateStartedString: { day: '23', month: '07', year: '2023' }
 translations:
@@ -11,7 +11,7 @@ translations:
     return: 'return',
     chapters: 'chapters',
   }
-language: { en: 'english', iso6392B: 'en', locale: 'I Preface' }
+language: { en: 'english', iso6392B: 'en', locale: 'I Preface: Seeing Plural' }
 chapterid: { chapterid: 1, chapterid_subid: '01'}
 translators: []
 ---

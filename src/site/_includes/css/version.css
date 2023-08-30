@@ -42,7 +42,7 @@
 
 #version-wrapper > #version-content > #version-data > #version-data-title {
   font-size: var(--font-size-step-5);
-  line-height: var(--font-size-step-5);
+  line-height: var(--font-size-step-1);
   text-transform: uppercase;
   margin-left: -2px;
 }
