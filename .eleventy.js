@@ -17,11 +17,26 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addAsyncShortcode('readdynamiccode', async (url) => {
-      return EleventyFetch(url, {
-          duration: '1m',
-          type: 'text',
-          verbose: true
+    const log_text = `The location of the resource is defined in the md file but was not accessible. The URL is "${url}"`
+    const screen_text =  "Please revisit this page later. The page is currently unavailable but will become available soon."
+    try {
+      let returnedContent = EleventyFetch(url, {
+        duration: '1m',
+        type: 'text',
+        verbose: true
+      }).then(
+       function(response){
+         return response;
+       }
+      ).catch(error => {
+        console.log(log_text);
+        return screen_text;
       });
+      return returnedContent;
+    } catch (e) {
+      console.log(log_text);
+      return screen_text;
+    }
   });
 
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
