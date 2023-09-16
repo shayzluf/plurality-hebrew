@@ -5,7 +5,7 @@ dateStartedString: { day: '20', month: '03', year: '2023' }
 translations:
   {
     plurality: 'Chapter III',
-    subtitle: 'Living in a Prural World',
+    subtitle: 'Living in a Plural World',
     authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
     translatorsLead: 'Translated by:',
     return: 'return',
