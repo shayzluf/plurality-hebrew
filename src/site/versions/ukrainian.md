@@ -7,12 +7,12 @@ translations:
     plurality: 'Плюраліті',
     subtitle: 'Технологія впровадження колаборативного розмаїття та реалізації демократії',
     authorsLead: 'Одрі Тан та Е. Ґлен Вейл',
-    translatorsLead: 'Перекладачі: Валерія Паніна та Юлія Сухая',
+    translatorsLead: 'Перекладачі:',
     return: 'return',
     chapters: 'chapters',
   }
 language: { ua: 'ukrainian', iso6392B: 'ukr', locale: 'ukrainian' }
-translators: [Валерія Паніна та Юлія Сухая]
+translators: [Валерія Паніна, Юлія Суха]
 ---
 
 Запрошуємо до співпраці у світі _Плюраліті: Технологія впровадження колаборативного розмаїття та реалізації демократії_
