@@ -1,6 +1,6 @@
 ---
 title: 'Preface'
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/%E5%BA%8F%E7%AB%A0%20%E6%95%B8%E4%BD%8D%E8%A7%80%E7%85%A7.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/01-數位觀照.md'
 dateStartedString: { day: '23', month: '07', year: '2023' }
 translations:
   {
@@ -18,4 +18,4 @@ translators:
     唐鳳Audrey Tang
   ]
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/%E5%BA%8F%E7%AB%A0%20%E6%95%B8%E4%BD%8D%E8%A7%80%E7%85%A7.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/01-數位觀照.md' %}

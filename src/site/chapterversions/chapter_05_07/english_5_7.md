@@ -1,6 +1,6 @@
 ---
 title: 'Voting'
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/Voting.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/05-06-voting.md'
 dateStartedString: { day: '1', month: '10', year: '2023' }
 translations:
   {
@@ -15,4 +15,4 @@ language: { en: 'english', iso6392B: 'eng', locale: 'V 7 Voting' }
 chapterid: { chapterid: 5, chapterid_subid: '05-07'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/Voting.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/05-06-voting.md' %}

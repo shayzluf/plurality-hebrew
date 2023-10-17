@@ -1,6 +1,6 @@
 ---
 title: 'Rights, Operating Systems and Digital Freedom'
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/RightsasOS.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/04-00-rights-os-and-digital-freedom.md'
 dateStartedString: { day: '30', month: '08', year: '2023' }
 translations:
   {
@@ -15,4 +15,4 @@ language: { en: 'english', iso6392B: 'eng', locale: 'IV 1 Rights, Operating Syst
 chapterid: { chapterid: 4, chapterid_subid: '04-01'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/RightsasOS.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/04-00-rights-os-and-digital-freedom.md' %}
