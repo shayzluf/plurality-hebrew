@@ -1,6 +1,6 @@
 ---
 title: 'A View from Yu Shan'
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/YuShan.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/03-03-a-view-from-yu-shan.md'
 dateStartedString: { day: '14', month: '10', year: '2023' }
 translations:
   {
@@ -15,4 +15,4 @@ language: { en: 'english', iso6392B: 'eng', locale: 'III 3 A View from Yu Shan' 
 chapterid: { chapterid: 3, chapterid_subid: '03-03'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/YuShan.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/03-03-a-view-from-yu-shan.md' %}

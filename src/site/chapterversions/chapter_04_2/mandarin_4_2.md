@@ -1,6 +1,6 @@
 ---
 title: ''
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B9%8B%E4%BA%8C%20%E8%BA%AB%E5%88%86%E8%88%87%E4%BA%BA%E6%A0%BC%E6%AC%8A.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/04-01-身分與人格權.md'
 dateStartedString: { day: '10', month: '09', year: '2023' }
 translations:
   {
@@ -15,4 +15,4 @@ language: { en: 'Mandarin/華文', iso6392B: 'zh-TW', locale: 'IV 2 Identity and
 chapterid: { chapterid: 4, chapterid_subid: '04-02'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B9%8B%E4%BA%8C%20%E8%BA%AB%E5%88%86%E8%88%87%E4%BA%BA%E6%A0%BC%E6%AC%8A.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/04-01-身分與人格權.md' %}

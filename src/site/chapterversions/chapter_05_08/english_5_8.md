@@ -1,6 +1,6 @@
 ---
 title: 'Markets'
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/Markets.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/05-07-markets.md'
 dateStartedString: { day: '14', month: '10', year: '2023' }
 translations:
   {
@@ -15,4 +15,4 @@ language: { en: 'english', iso6392B: 'eng', locale: 'V 8 Markets' }
 chapterid: { chapterid: 5, chapterid_subid: '05-08'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/Markets.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/05-07-markets.md' %}
