@@ -5,7 +5,7 @@ dateStartedString: { day: '21', month: '10', year: '2023' }
 translations:
   {
     plurality: 'Chapter V 4',
-    subtitle: 'Collaborative Technology and Democracy',
+    subtitle: 'Deliberation',
     authorsLead: 'By Audrey Tang, E. Glen Weyl',
     translatorsLead: 'Translated by:',
     return: 'return',
