@@ -159,3 +159,13 @@
   }
 }
 
+
+.chapter span {
+  font-family: var(--font-family-alt);
+}
+
+.chapter li.title span {
+  font-size: 200%;
+  font-family: var(--font-family);
+}
+
