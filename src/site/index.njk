@@ -7,7 +7,32 @@ permalink: "/"
 {%- from './_includes/macros/chapterversion-menu-item.njk' import chapterVersionMenuItem -%}
 
 <table>
-<tr><td>
+<tr>
+<td valign="top">
+<div id="version-menu">
+  <ol id="version-ol">
+      <li style="font-size:250%">
+      Chapters
+      </li>
+    {% for version in collections.chapterversions |sortDataByChapteridSubidLanguageIso %}
+        {{ chapterVersionMenuItem(
+          githubLink = version.data.githubLink,
+          dayStarted = version.data.dateStartedString.day,
+          monthStarted = version.data.dateStartedString.month,
+          yearStarted = version.data.dateStartedString.year,
+          language = version.data.language.en,
+          contributeTranslated = version.data.translations.contribute,
+          pluralityTranslated = version.data.translations.plurality,
+          subtitleTranslated = version.data.translations.subtitle,
+          pageTitle = version.data.title,
+          pageUrl = version.url,
+          chapterid_subid = version.data.chapterid.chapterid_subid)
+        }}
+    {% endfor %}
+  </ol>
+</div>
+</td>
+<td>
 <div id="version-menu">
   <ol id="version-ol">
   <div>
@@ -29,30 +54,6 @@ permalink: "/"
           pageUrl = version.url)
         }}
       </li>
-    {% endfor %}
-  </ol>
-</div>
-</td>
-<td>
-<div id="version-menu">
-  <ol id="version-ol">
-      <li style="font-size:250%">
-      Chapters
-      </li>
-    {% for version in collections.chapterversions |sortDataByChapteridSubidLanguageIso %}
-        {{ chapterVersionMenuItem(
-          githubLink = version.data.githubLink,
-          dayStarted = version.data.dateStartedString.day,
-          monthStarted = version.data.dateStartedString.month,
-          yearStarted = version.data.dateStartedString.year,
-          language = version.data.language.en,
-          contributeTranslated = version.data.translations.contribute,
-          pluralityTranslated = version.data.translations.plurality,
-          subtitleTranslated = version.data.translations.subtitle,
-          pageTitle = version.data.title,
-          pageUrl = version.url,
-          chapterid_subid = version.data.chapterid.chapterid_subid)
-        }}
     {% endfor %}
   </ol>
 </div>
