@@ -1,5 +1,5 @@
 ---
-title: 'Property and Contract'
+title: 'Access'
 githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/04-05-access.md'
 dateStartedString: { day: '4', month: '11', year: '2023' }
 translations:
