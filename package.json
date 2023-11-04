@@ -1,7 +1,7 @@
 {
   "name": "plurality.net",
   "version": "1.0.0",
-  "description": "Plurality: Technology for Collaborative Diversity and Democracy",
+  "description": "Plurality: The Future of Collaborative Technology and Democracy",
   "type": "commonjs",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",

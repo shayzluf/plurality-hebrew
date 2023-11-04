@@ -1,11 +1,11 @@
 ---
-title: 'Plurality: Technology for Collaborative Diversity and Democracy'
+title: 'Plurality: The Future of Collaborative Technology and Democracy'
 githubLink:
 dateStartedString: { day: '01', month: '08', year: '2022' }
 translations:
   {
     plurality: 'Plurality',
-    subtitle: 'Technology for Collaborative Diversity and Democracy',
+    subtitle: 'The Future of Collaborative Technology and Democracy',
     authorsLead: 'By Audrey Tang and E. Glen Weyl',
     translatorsLead: 'Translated by:',
     return: 'return',
@@ -15,7 +15,7 @@ language: { en: 'english', iso6392B: 'eng', locale: 'english' }
 translators: []
 ---
 
-Introducing and soliciting collaboration on _Plurality: Technology for Collaborative Diversity and Democracy_
+Introducing and soliciting collaboration on _Plurality: The Future of Collaborative Technology and Democracy_
 
 We are about to embark on a journey and hope you will join us. Over the past half decade we have, in collaboration with so many of you, been developing an alternative to the usual narratives about the future of technology that focus on financialization or centralized artificial intelligence. Plurality, as we call it, is technology that recognizes, honors, and empowers cooperation across social and cultural differences. You can learn a bit more about it in the overview below. We believe Plurality is the natural technological paradigm to support the flourishing of democratic societies and can overcome many of the entrenched divisions in our world today. We want to tell the world about this possibility so we can stimulate the diverse and coordinated investment and experimentation that can make it a reality. And we want your help.
 
