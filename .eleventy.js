@@ -16,27 +16,36 @@ module.exports = function(eleventyConfig) {
     wrapper: 'div'
   });
 
-  eleventyConfig.addAsyncShortcode('readdynamiccode', async (url) => {
+  eleventyConfig.addAsyncShortcode('readdynamiccode', async (url,fallback_url) => {
     const log_text = `The location of the resource is defined in the md file but was not accessible. The URL is "${url}"`
+    const log_text_shown_from_fallback = `The resource of fallback location at "${fallback_url} will be used if available."`
     const screen_text =  "Please revisit this page later. The page is currently unavailable but will become available soon."
-    try {
-      let returnedContent = EleventyFetch(url, {
-        duration: '1m',
-        type: 'text',
-        verbose: true
-      }).then(
-       function(response){
-         return response;
-       }
-      ).catch(error => {
+    const shortcodeFetch = (url,fallback_url) => {
+      try {
+        let returnedContent = EleventyFetch(url, {
+          duration: '1m',
+          type: 'text',
+          verbose: true
+        }).then(
+         function(response){
+           return response;
+         }
+        ).catch(error => {
+          console.log(log_text);
+          if (fallback_url != null ){
+            console.log(log_text_shown_from_fallback)
+            return shortcodeFetch(fallback_url,null);
+          } else {
+            return screen_text;
+          }
+        });
+        return returnedContent;
+      } catch (e) {
         console.log(log_text);
         return screen_text;
-      });
-      return returnedContent;
-    } catch (e) {
-      console.log(log_text);
-      return screen_text;
+      }
     }
+    return shortcodeFetch(url,fallback_url);
   });
 
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
