@@ -13,6 +13,9 @@ const interactiveTypeBlack = (p) => {
     var container = document.getElementById('interactive-type');
     p.createCanvas(container.offsetWidth, container.offsetHeight);
 
+    // test privacy.resistFingerprinting.randomDataOnCanvasExtract
+    if (p.get(0, 0).join() !== '0,0,0,0') { return; }
+
     p.background(0);
     p.textFont(font);
     p.textSize(p.width / 4);
