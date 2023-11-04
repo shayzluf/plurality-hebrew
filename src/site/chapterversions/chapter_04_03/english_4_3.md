@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter IV 3',
     subtitle: 'Commerce and Trust',
-    authorsLead: 'By Audrey Tang, E. Glen Weyl',
+    authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',
