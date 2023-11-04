@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter V 7',
     subtitle: 'Markets',
-    authorsLead: 'By Audrey Tang, E. Glen Weyl',
+    authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',

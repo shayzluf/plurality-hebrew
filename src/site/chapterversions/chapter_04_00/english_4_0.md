@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter IV 0',
     subtitle: 'Rights, Operating Systems and Digital Freedom',
-    authorsLead: 'By Audrey Tang, E. Glen Weyl',
+    authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',

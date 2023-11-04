@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter IV 2',
     subtitle: 'Association and Plural Publics',
-    authorsLead: 'By Audrey Tang, E. Glen Weyl',
+    authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',

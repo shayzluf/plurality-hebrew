@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter IV 4',
     subtitle: 'Property and Contract',
-    authorsLead: 'By Audrey Tang, E. Glen Weyl',
+    authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',
