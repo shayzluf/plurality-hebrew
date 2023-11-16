@@ -15,5 +15,4 @@ language: { en: 'english', iso6392B: 'eng', locale: 'VI 0 From Plurality to Real
 chapterid: { chapterid: 6, chapterid_subid: '06-00'}
 translators: []
 ---
-
 {% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/06-00-from-plurality-to-reality.md' %}
