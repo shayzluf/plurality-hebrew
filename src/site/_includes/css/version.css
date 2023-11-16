@@ -196,6 +196,14 @@
   font-style: italic;
 }
 
+#version-md ol, #version-md ul {
+  margin: 0 0 var(--padding-step-2) 0;
+}
+
+#version-md ol li, #version-md ul li {
+  margin: 0 0 var(--padding-step-1) 0;
+}
+
 
 /* MOBILE HANDLING */
 @media screen and (max-width: 768px) {
