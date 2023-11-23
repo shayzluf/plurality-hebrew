@@ -15,4 +15,4 @@ language: { en: 'Mandarin/華文', iso6392B: 'zh-TW', locale: 'III 0 玉山視�
 chapterid: { chapterid: 3, chapterid_subid: '03-00'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/03-03-玉山視野.md' 'https://raw.githubusercontent.com/audreyt/plurality/main/contents/traditional-mandarin/03-03-玉山視野.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/03-00-玉山視野.md' 'https://raw.githubusercontent.com/audreyt/plurality/main/contents/traditional-mandarin/03-00-玉山視野.md' %}
