@@ -1,6 +1,6 @@
 // INTERACTIVE TYPE
 const interactiveTypeBlack = (p) => {
-  let gridSize = 5;
+  let gridSize = 3;
   const points = [];
   let mutationRange = [-70, 70];
   const initialMutationLowerBound = mutationRange[0];
@@ -13,23 +13,32 @@ const interactiveTypeBlack = (p) => {
     var container = document.getElementById('interactive-type');
     p.createCanvas(container.offsetWidth, container.offsetHeight);
 
-    // test privacy.resistFingerprinting.randomDataOnCanvasExtract
-    if (p.get(0, 0).join() !== '0,0,0,0') { return; }
+    // Define the grid pattern
+    const grid = [
+        "              ",
+        "              ",
+        "  .......     ",
+        "  .     .     ",
+        "  .     .     ",
+        "  .  .......  ",
+        "  .  .  .  .  ",
+        "  .  .  .  .  ",
+        "  .......  .  ",
+        "     .     .  ",
+        "     .     .  ",
+        "     .......  ",
+        "              ",
+        "              ",
+        "              ",
+    ];
 
-    p.background(0);
-    p.textFont(font);
-    p.textSize(p.width / 4);
-    p.textAlign(p.CENTER, p.CENTER);
-    p.fill(255);
-    p.text('數位', p.width/2, p.height/2);
-    p.frameRate(60);
-
-    p.loadPixels();
-    for (let y = 0; y < p.height; y += gridSize) {
-      for (let x = 0; x < p.width; x += gridSize) {
-        let r = p.get(x, y)[0];
-        if (r > 128) {
-          points.push(p.createVector(x,y));
+    const d = Math.min(p.height, p.width);
+    for (let y = 0; y < d; y += gridSize) {
+      if (Math.floor(y / d * 27) % 2) continue;
+      for (let x = 0; x < d; x += gridSize) {
+        if (Math.floor(x / d * 27) % 2) continue;
+        if (grid[Math.floor(y / d * 14)][Math.floor(x / d * 14)] === '.') {
+          points.push(p.createVector(x, y));
         }
       }
     }
@@ -45,7 +54,7 @@ const interactiveTypeBlack = (p) => {
       x += p.random(mutationRange[0], mutationRange[1]) * p.random(1.5);
       y += p.random(mutationRange[0], mutationRange[1]) * p.random(1.5);
 
-      p.stroke(255);
+      p.stroke(127);
       p.fill(0);
       p.circle(x, y, gridSize/2);
     }
