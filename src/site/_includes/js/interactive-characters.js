@@ -36,7 +36,6 @@ const interactiveTypeBlack = (p) => {
     if (d < 400) return;
     const isFilled = (x, y) => (Math.ceil(grid[Math.floor(y / d * 14)][Math.floor(x / d * 14)]));
     const isSkipped = (x_or_y) => Math.floor(x_or_y / d * 27) % 2; // interleaving rows and columns
-    const borderRadius = 2;
     for (let x = 0; x < d; x += gridSize) {
       if (isSkipped(x)) continue;
       for (let y = 0; y < d; y += gridSize) {
@@ -70,7 +69,6 @@ const interactiveTypeBlack = (p) => {
       x += p.random(mutationRange[0], mutationRange[1]) * p.random(1.5);
       y += p.random(mutationRange[0], mutationRange[1]) * p.random(1.5);
       let color = codeToColor[points[i].z];
-      // call p.stroke with color as three parameters
       p.stroke(color[0], color[1], color[2]);
       p.fill(color[0], color[1], color[2]);
       p.circle(x, y, gridSize/2);
