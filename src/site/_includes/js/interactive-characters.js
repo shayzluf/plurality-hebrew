@@ -17,33 +17,49 @@ const interactiveTypeBlack = (p) => {
     const grid = [
         "              ",
         "              ",
-        "  .......     ",
-        "  .     .     ",
-        "  .     .     ",
-        "  .  .......  ",
-        "  .  .  .  .  ",
-        "  .  .  .  .  ",
-        "  .......  .  ",
-        "     .     .  ",
-        "     .     .  ",
-        "     .......  ",
+        "  2222222     ",
+        "  2     2     ",
+        "  2     2     ",
+        "  2  3456111  ",
+        "  2  4  5  1  ",
+        "  2  5  4  1  ",
+        "  2226543  1  ",
+        "     1     1  ",
+        "     1     1  ",
+        "     1111111  ",
         "              ",
         "              ",
         "              ",
     ];
 
     const d = Math.min(p.height, p.width);
-    for (let y = 0; y < d; y += gridSize) {
-      if (Math.floor(y / d * 27) % 2) continue;
-      for (let x = 0; x < d; x += gridSize) {
-        if (Math.floor(x / d * 27) % 2) continue;
-        if (grid[Math.floor(y / d * 14)][Math.floor(x / d * 14)] === '.') {
-          points.push(p.createVector(x, y));
-        }
+    if (d < 400) return;
+    const isFilled = (x, y) => (Math.ceil(grid[Math.floor(y / d * 14)][Math.floor(x / d * 14)]));
+    const isEmpty = (x) => Math.floor(x / d * 27) % 2;
+    const borderRadius = 2;
+    for (let x = 0; x < d; x += gridSize) {
+      if (isEmpty(x)) continue;
+      for (let y = 0; y < d; y += gridSize) {
+        if (isEmpty(y)) continue;
+        n = isFilled(x, y);
+        if (!n) continue;
+        let ds = [-gridSize*2, -gridSize, 0, gridSize, gridSize*2];
+        let neighborsEmpty = ds.map(dx => ds.map(dy => isEmpty(x + dx) && isEmpty(y + dy))).flat().filter(x=>x).length;
+        if (n == 2 && neighborsEmpty >= 1) continue;
+        if (n >= 3 && neighborsEmpty >= 3) continue;
+        points.push(p.createVector(x, y, n));
       }
     }
   }
 
+  const codeToColor = {
+    1: [127, 127, 127],
+    2: [127, 127, 127],
+    3: [214, 73, 51],
+    4: [17, 176, 209],
+    5: [10, 124, 89],
+    6: [251, 176, 60],
+  }
   p.draw = function() {
     p.background(0);
 
@@ -53,9 +69,10 @@ const interactiveTypeBlack = (p) => {
       let y = points[i].y;
       x += p.random(mutationRange[0], mutationRange[1]) * p.random(1.5);
       y += p.random(mutationRange[0], mutationRange[1]) * p.random(1.5);
-
-      p.stroke(127);
-      p.fill(0);
+      let color = codeToColor[points[i].z];
+      // call p.stroke with color as three parameters
+      p.stroke(color[0], color[1], color[2]);
+      p.fill(color[0], color[1], color[2]);
       p.circle(x, y, gridSize/2);
     }
   }
