@@ -35,18 +35,18 @@ const interactiveTypeBlack = (p) => {
     const d = Math.min(p.height, p.width);
     if (d < 400) return;
     const isFilled = (x, y) => (Math.ceil(grid[Math.floor(y / d * 14)][Math.floor(x / d * 14)]));
-    const isEmpty = (x) => Math.floor(x / d * 27) % 2;
+    const isSkipped = (x_or_y) => Math.floor(x_or_y / d * 27) % 2; // interleaving rows and columns
     const borderRadius = 2;
     for (let x = 0; x < d; x += gridSize) {
-      if (isEmpty(x)) continue;
+      if (isSkipped(x)) continue;
       for (let y = 0; y < d; y += gridSize) {
-        if (isEmpty(y)) continue;
+        if (isSkipped(y)) continue;
         n = isFilled(x, y);
         if (!n) continue;
         let ds = [-gridSize*2, -gridSize, 0, gridSize, gridSize*2];
-        let neighborsEmpty = ds.map(dx => ds.map(dy => isEmpty(x + dx) && isEmpty(y + dy))).flat().filter(x=>x).length;
-        if (n == 2 && neighborsEmpty >= 1) continue;
-        if (n >= 3 && neighborsEmpty >= 3) continue;
+        let neighborsSkipped = ds.map(dx => ds.map(dy => isSkipped(x + dx) && isSkipped(y + dy))).flat().filter(x=>x).length;
+        if (n == 2 && neighborsSkipped >= 1) continue;
+        if (n >= 3 && neighborsSkipped >= 3) continue;
         points.push(p.createVector(x, y, n));
       }
     }
