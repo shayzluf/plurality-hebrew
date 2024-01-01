@@ -15,4 +15,4 @@ language: { en: 'english', iso6392B: 'eng', locale: 'IV 5 Access' }
 chapterid: { chapterid: 4, chapterid_subid: '04-05'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/04-05-access.md' 'https://raw.githubusercontent.com/audreyt/plurality/main/contents/english/04-05-access.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/04-05-access.md' %}

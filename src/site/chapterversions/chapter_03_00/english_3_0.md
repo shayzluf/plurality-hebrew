@@ -15,4 +15,4 @@ language: { en: 'english', iso6392B: 'eng', locale: 'III 0 A View from Yu Shan' 
 chapterid: { chapterid: 3, chapterid_subid: '03-00'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/03-00-a-view-from-yu-shan.md' 'https://raw.githubusercontent.com/audreyt/plurality/main/contents/english/03-00-a-view-from-yu-shan.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/03-00-a-view-from-yu-shan.md' %}

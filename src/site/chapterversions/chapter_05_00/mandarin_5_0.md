@@ -15,4 +15,4 @@ language: { en: 'Mandarin/華文', iso6392B: 'zh-TW', locale: 'V 0 協作技術�
 chapterid: { chapterid: 5, chapterid_subid: '05-00'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/05-00-協作技術與民主.md' 'https://raw.githubusercontent.com/audreyt/plurality/main/contents/traditional-mandarin/05-00-協作技術與民主.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/05-00-協作技術與民主.md' %}
