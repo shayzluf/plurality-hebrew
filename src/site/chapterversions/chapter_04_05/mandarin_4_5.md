@@ -15,4 +15,4 @@ language: { en: 'Mandarin/華文', iso6392B: 'zh-TW', locale: 'IV 5 存取權' }
 chapterid: { chapterid: 4, chapterid_subid: '04-05'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/04-05-存取權.md' 'https://raw.githubusercontent.com/audreyt/plurality/main/contents/traditional-mandarin/04-05-存取權.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/04-05-存取權.md' %}

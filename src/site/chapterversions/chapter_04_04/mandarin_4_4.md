@@ -15,4 +15,4 @@ language: { en: 'Mandarin/華文', iso6392B: 'zh-TW', locale: 'IV 4 財產與合
 chapterid: { chapterid: 4, chapterid_subid: '04-04'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/04-04-財產與合約.md' 'https://raw.githubusercontent.com/audreyt/plurality/main/contents/traditional-mandarin/04-04-財產與合約.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/04-04-財產與合約.md' %}
