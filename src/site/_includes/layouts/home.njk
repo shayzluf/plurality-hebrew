@@ -4,33 +4,39 @@
 
 {% block headerScripts %}
   <script src="https://cdn.jsdelivr.net/npm/p5@1.5.0/lib/p5.js"></script>
-  <script src="{{ site.baseurl }}/assets/js/interactive-characters.js"></script>
 {% endblock %}
 
 {% block topNav %}
   {{ renderNav(
   leftData = [
-    { 
-      title: 'About',
-      path: '/about'
+    {
+      title: 'Plurality icon',
+      imgpath: '../assets/favicons/header.png',
+      path: '/',
+      icon: true
     }
   ],
   centreData = [
     {
       title: 'Plurality: The Future of Collaborative Technology and Democracy',
-      path: '#'
+      path: '/'
     }
   ],
   rightData = [
     {
-      title: 'GitHub',
+      title: 'Join us',
       path: 'https://github.com/pluralitybook',
       external: true
     },
     {
+      title: 'Sections',
+      path: '../chapters/',
+      external: false
+    },
+    {
       title: 'Announcement',
-      path: 'https://www.radicalxchange.org/media/blog/plurality-technology-for-collaborative-diversity-and-democracy/',
-      external: true
+      path: '../announcement/',
+      external: false
     },
     {
       title: 'Twitter',
@@ -48,19 +54,24 @@
     rightData = [
       {
         title: 'Plurality: The Future of Collaborative Technology and Democracy',
-        path: '#'
+        path: '/'
       }
     ],
     overlayData = [
       {
-        title: 'About',
-        path: '/about'
+        title: 'Plurality',
+        path: '/'
       },
       {
         title: 'Announcement',
-        path: 'https://www.radicalxchange.org/media/blog/plurality-technology-for-collaborative-diversity-and-democracy/',
-        external: true
+        path: '../announcement/',
+        external: false
       },
+    {
+      title: 'Sections',
+      path: '../chapters/',
+      external: false
+    },
       {
         title: 'Twitter',
         path: 'https://twitter.com/pluralitybook',
@@ -75,7 +86,6 @@
 {% endblock %}
 
 {% block extraneousContent %}
-  <div id="interactive-type"></div>
 {% endblock %}
 
 {% block footer %}{% endblock %}
