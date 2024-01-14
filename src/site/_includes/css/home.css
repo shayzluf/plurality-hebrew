@@ -10,7 +10,7 @@
   list-style-type: none;
   display: flex;
   flex-direction: column;
-  padding: var(--top-offset) 0 calc(var(--top-offset)/2) calc(var(--padding-step-4)*2);
+  padding: var(--top-offset) calc(var(--padding-step-4)*2) calc(var(--top-offset)/2) calc(var(--padding-step-4)*2);
 }
 
 #version-menu > #version-ol > * {
@@ -78,6 +78,28 @@
   display: inline-block;
 }
 
+#footer-container > * > a {
+    display: block;
+    height: auto;
+    width: auto;
+    margin: 0 0 0 0;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.button_small {
+  background-color: #FFFFFF;
+  margin: 0 0 0 0;
+  border: none;
+  color: black;
+  width: 160px;
+  padding: 0px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 3px;
+}
 
 /* INTERACTIVE TYPE DIV */
 #interactive-type {
@@ -103,7 +125,7 @@
     width: 100%;
   }
   #version-menu > #version-ol {
-    padding: var(--top-offset) 0 calc(var(--top-offset)/2) calc(var(--padding-step-4));
+    padding: var(--top-offset) calc(var(--padding-step-4)) calc(var(--top-offset)/2) calc(var(--padding-step-4));
   }
 }
   
