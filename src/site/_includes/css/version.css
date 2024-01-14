@@ -4,6 +4,12 @@
   flex-direction: row;
   height: 100%;
   width: 100%;
+  overflow-y: scroll;
+  scroll-behavior: auto;
+}
+
+#version-wrapper::-webkit-scrollbar {
+  display: none;
 }
 
 #version-wrapper > div {
@@ -13,7 +19,7 @@
 }
 
 #version-wrapper > #version-content {
-  position: fixed;
+  /*position: fixed;*/
   top: 0;
   right: 0;
   width: 80%;
@@ -27,7 +33,7 @@
 }
 
 #version-wrapper > #version-index {
-  position: fixed;
+  /*position: fixed;*/
   left: 0;
   top: 0;
   width: 20%;
