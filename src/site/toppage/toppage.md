@@ -73,15 +73,15 @@ layout: home
             <div style="width: 16.58px; height: 16.58px; left: 274.07px; top: 274.30px; position: absolute; background: white"></div>
             <div style="border-radius: 50%; width: 16.58px; height: 16.58px; left: 182.81px; top: 30.92px; position: absolute; background: white"></div>
             <div style="border-radius: 50%; width: 16.58px; height: 16.58px; left: 182.81px; top: 61.18px; position: absolute; background: white"></div>
-            <div style="width: 16.58px; height: 16.58px; left: 182.81px; top: 122.02px; position: absolute; background: #39B54A"></div>
-            <div style="width: 16.58px; height: 16.58px; left: 182.81px; top: 152.28px; position: absolute; background: #0EB1D2"></div>
+            <div style="border-radius: 25%; width: 16.58px; height: 16.58px; left: 182.81px; top: 122.02px; position: absolute; background: #39B54A"></div>
+            <div style="border-radius: 25%; width: 16.58px; height: 16.58px; left: 182.81px; top: 152.28px; position: absolute; background: #0EB1D2"></div>
             <div style="width: 16.58px; height: 16.58px; left: 274.07px; top: 182.54px; position: absolute; background: white"></div>
             <div style="width: 16.58px; height: 16.58px; left: 274.07px; top: 122.02px; position: absolute; background: white"></div>
             <div style="width: 16.58px; height: 16.58px; left: 274.07px; top: 152.28px; position: absolute; background: white"></div>
             <div style="width: 16.58px; height: 16.58px; left: 274.07px; top: 213.13px; position: absolute; background: white"></div>
             <div style="width: 16.58px; height: 16.58px; left: 274.07px; top: 243.39px; position: absolute; background: white"></div>
-            <div style="width: 16.58px; height: 16.58px; left: 91.54px; top: 122.02px; position: absolute; background: #0EB1D2"></div>
-            <div style="width: 16.58px; height: 16.58px; left: 91.54px; top: 152.28px; position: absolute; background: #39B54A"></div>
+            <div style="border-radius: 25%; width: 16.58px; height: 16.58px; left: 91.54px; top: 122.02px; position: absolute; background: #0EB1D2"></div>
+            <div style="border-radius: 25%; width: 16.58px; height: 16.58px; left: 91.54px; top: 152.28px; position: absolute; background: #39B54A"></div>
             <div style="width: 16.58px; height: 16.58px; left: 91.54px; top: 213.13px; position: absolute; background: white"></div>
             <div style="width: 16.58px; height: 16.58px; left: 91.54px; top: 243.39px; position: absolute; background: white"></div>
             <div style="border-radius: 50%; width: 16.58px; height: 16.58px; left: 0px; top: 91.44px; position: absolute; background: white"></div>
@@ -89,6 +89,8 @@ layout: home
             <div style="border-radius: 50%; width: 16.58px; height: 16.58px; left: 0px; top: 61.18px; position: absolute; background: white"></div>
             <div style="border-radius: 50%; width: 16.58px; height: 16.58px; left: 0px; top: 122.02px; position: absolute; background: white"></div>
             <div style="border-radius: 50%; width: 16.58px; height: 16.58px; left: 0px; top: 152.28px; position: absolute; background: white"></div>
+            <div style="left: 121.96px; top: 105.44px; position: absolute; font-family: cursive; color: #AAAAAA; font-size: 48px;height: auto;width: auto;">數</div>
+            <div style="left: 213.96px; top: 200.44px; position: absolute; font-family: cursive; color: #AAAAAA; font-size: 48px;height: auto;width: auto;">位</div>
         </div>
     </div>
 </div>
