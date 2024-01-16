@@ -2,7 +2,7 @@
 const interactiveTypeBlack = (p) => {
   let gridSize = 3;
   const points = [];
-  let mutationRange = [-70, 70];
+  let mutationRange = [-40, 40];
   const initialMutationLowerBound = mutationRange[0];
 
   p.preload = function() {
