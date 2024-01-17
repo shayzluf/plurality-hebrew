@@ -4,6 +4,7 @@ const interactiveTypeBlack = (p) => {
   const points = [];
   let mutationRange = [-40, 40];
   const initialMutationLowerBound = mutationRange[0];
+  let touchPointOld = 0;
 
   p.preload = function() {
     font = 'monospace';
@@ -85,6 +86,20 @@ const interactiveTypeBlack = (p) => {
       mutationRange = [mutationRange[0] - rangeStep, mutationRange[1] + rangeStep];
       gridSize -= 0.1;
     }
+  }
+
+  p.touchMoved = function(event) {
+    const rangeStep =10;
+    let touchDelta = touchPointOld - event.touches[0].clientY;
+    if (touchDelta > 0 && mutationRange[0] < 0) {
+      mutationRange = [mutationRange[0] + rangeStep, mutationRange[1] - rangeStep];
+      gridSize += 0.001;
+    }
+    if (touchDelta < 0 && gridSize > 1 && mutationRange[0] > initialMutationLowerBound) {
+      mutationRange = [mutationRange[0] - rangeStep, mutationRange[1] + rangeStep];
+      gridSize -= 0.001;
+    }
+    touchPointOld = event.touches[0].clientY;
   }
 
   p.windowResized = function() {
