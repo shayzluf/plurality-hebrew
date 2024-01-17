@@ -89,6 +89,17 @@
   display: none;
 }
 
+#chapter_container_terminal {
+
+}
+
+#chapter_container_mobile {
+  display: none;
+}
+
+#chapter_container_table {
+
+}
 
 @media screen and (max-width: 1080px) {
   #container_terminal {
@@ -97,4 +108,15 @@
   #container_mobile {
     display: flex;
   }
+  #chapter_container_terminal {
+    display: none;
+  }
+  #chapter_container_mobile {
+    display: inline;
+  }
+  #chapter_container_table {
+    flex-direction: column;
+    display: flex;
+  }
+
 }
