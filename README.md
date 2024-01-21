@@ -1,5 +1,5 @@
 <div align="center" style="margin-top: 5px; margin-bottom: 10px;">
-  <a href="https://plurality.net"><img alt="Plurality.net" src="./docs/img/plurality-landing.gif" width="40%"></a>
+  <a href="https://plurality.net"><img alt="Plurality.net" src="./src/site/_includes/favicons/bookcover_small.png" width="40%"></a>
   <h1>Welcome to Plurality.net!</h1>
 </div>
 
