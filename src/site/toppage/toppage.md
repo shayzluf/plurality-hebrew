@@ -29,8 +29,8 @@ layout: home
         </div>
     </div>
     <div style="padding-left: 120px; padding-right: 120px; padding-top: 100px; padding-bottom: 100px; background: linear-gradient(0deg, white 0%, white 100%), radial-gradient(54.27% 60.58% at 68.06% 5.92%, #FF9B00 0%, rgba(251, 176, 59, 0) 100%), radial-gradient(55.02% 57.93% at 48.25% 65.39%, #FF3A00 0%, rgba(0, 0, 0, 0) 100%), radial-gradient(45.26% 48.09% at 76.66% 67.16%, #0EB1D2 0%, rgba(0, 0, 0, 0) 100%), radial-gradient(46.19% 48.89% at 91.74% 68.92%, #1DC57D 0%, rgba(0, 0, 0, 0) 100%), radial-gradient(100.00% 100.00% at NaN% NaN%, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0) 100%); border-radius: 32px; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
-        <div style="width: 366px; height: 551px; position: relative">
-            <img style="width: 366px; height: 551px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 10px rgba(42.23, 42.46, 47.81, 0.25) inset; border-radius: 4px; border: 0.50px #787F8F solid" src="../assets/favicons/bookcover.png" />
+        <div style="width: 444px; height: 551px; position: relative">
+            <img style="width: 444px; height: 551px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 10px rgba(42.23, 42.46, 47.81, 0.25) inset; border-radius: 4px; border: 0.50px #787F8F solid" src="../assets/favicons/bookcover.png" />
             <div style="width: 13px; height: 551px; left: 12px; top: 0px; position: absolute; background: linear-gradient(90deg, rgba(224.27, 224.27, 224.27, 0) 15%, rgba(122.45, 122.45, 122.45, 0.07) 48%, rgba(0, 0, 0, 0) 85%)"></div>
         </div>
     </div>
@@ -89,8 +89,8 @@ layout: home
             <div style="border-radius: 50%; width: 16.58px; height: 16.58px; left: 0px; top: 61.18px; position: absolute; background: white"></div>
             <div style="border-radius: 50%; width: 16.58px; height: 16.58px; left: 0px; top: 122.02px; position: absolute; background: white"></div>
             <div style="border-radius: 50%; width: 16.58px; height: 16.58px; left: 0px; top: 152.28px; position: absolute; background: white"></div>
-            <div style="left: 121.96px; top: 105.44px; position: absolute; font-family: cursive; color: #AAAAAA; font-size: 48px;height: auto;width: auto;">數</div>
-            <div style="left: 213.96px; top: 200.44px; position: absolute; font-family: cursive; color: #AAAAAA; font-size: 48px;height: auto;width: auto;">位</div>
+            <div style="left: 121.96px; top: 123.44px; position: absolute; font-family: ChenYuluoyan-ShuWei; color: #BBBBBB; font-size: 48px;height: auto;width: auto;">數</div>
+            <div style="left: 213.96px; top: 210.44px; position: absolute; font-family: ChenYuluoyan-ShuWei; color: #BBBBBB; font-size: 48px;height: auto;width: auto;">位</div>
         </div>
     </div>
 </div>
@@ -220,8 +220,8 @@ layout: home
         <div style="padding-left: 20px; padding-right: 20px; padding-top: 36px; padding-bottom: 36px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
             <div style="justify-content: flex-start; align-items: flex-start; gap: 26px; display: flex">
                 <div style="padding: 64px; background: linear-gradient(0deg, white 0%, white 100%), radial-gradient(54.27% 60.58% at 68.06% 5.92%, #FF9B00 0%, rgba(251, 176, 59, 0) 100%), radial-gradient(55.02% 57.93% at 48.25% 65.39%, #FF3A00 0%, rgba(0, 0, 0, 0) 100%), radial-gradient(45.26% 48.09% at 76.66% 67.16%, #0EB1D2 0%, rgba(0, 0, 0, 0) 100%), radial-gradient(46.19% 48.89% at 91.74% 68.92%, #1DC57D 0%, rgba(0, 0, 0, 0) 100%), radial-gradient(100.00% 100.00% at NaN% NaN%, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0) 100%); border-radius: 32px; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
-                    <div style="width: 223px; height: 337px; position: relative">
-                        <img style="width: 223px; height: 337px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 10px rgba(42.23, 42.46, 47.81, 0.25) inset; border-radius: 4px; border: 0.50px #787F8F solid" src="../assets/favicons/bookcover.png" />
+                    <div style="width: 272px; height: 337px; position: relative">
+                        <img style="width: 272px; height: 337px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 10px rgba(42.23, 42.46, 47.81, 0.25) inset; border-radius: 4px; border: 0.50px #787F8F solid" src="../assets/favicons/bookcover.png" />
                         <div style="width: 13px; height: 337px; left: 12px; top: 0px; position: absolute; background: linear-gradient(90deg, rgba(224.27, 224.27, 224.27, 0) 15%, rgba(122.45, 122.45, 122.45, 0.07) 48%, rgba(0, 0, 0, 0) 85%)"></div>
                     </div>
                 </div>
@@ -276,8 +276,8 @@ layout: home
                     <div style="border-radius: 50%; width: 5.70px; height: 5.70px; left: 0px; top: 21.05px; position: absolute; background: white"></div>
                     <div style="border-radius: 50%; width: 5.70px; height: 5.70px; left: 0px; top: 41.98px; position: absolute; background: white"></div>
                     <div style="border-radius: 50%; width: 5.70px; height: 5.70px; left: 0px; top: 52.39px; position: absolute; background: white"></div>
-                    <div style="left: 42px; top: 36px; position: absolute; font-family: cursive; color: #AAAAAA; font-size: 16px;height: auto;width: auto;">數</div>
-                    <div style="left: 73px; top: 70px; position: absolute; font-family: cursive; color: #AAAAAA; font-size: 16px;height: auto;width: auto;">位</div>
+                    <div style="left: 42px; top: 42px; position: absolute; font-family: ChenYuluoyan-ShuWei; color: #BBBBBB; font-size: 16px;height: auto;width: auto;">數</div>
+                    <div style="left: 74px; top: 71px; position: absolute; font-family: ChenYuluoyan-ShuWei; color: #BBBBBB; font-size: 16px;height: auto;width: auto;">位</div>
                 </div>
             </div>
             <div style="align-self: stretch; height: 449px; flex-direction: column; justify-content: center; align-items: center; gap: 48px; display: flex">

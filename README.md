@@ -21,7 +21,11 @@ Design decisions that have been made thus far recall that the website aspires to
 
 #### Typography
 
-The website uses two fonts: [Authentic Sans](https://authentic.website/sans), distributed freely under [WTFPL](http://www.wtfpl.net/), and [Lanapixel](https://opengameart.org/content/lanapixel-localization-friendly-pixel-font), distributed under [OFL](./src/site/_data/fonts/lanapixel/LanaPixel_OpenFontLicense.txt). The former is used for body text, and the latter for nav items, headings, and other UI elements.
+The website uses the following fonts:
+
+- [Authentic Sans](https://authentic.website/sans), distributed freely under [WTFPL](http://www.wtfpl.net/), for body text.
+- [Lanapixel](https://opengameart.org/content/lanapixel-localization-friendly-pixel-font), distributed under [OFL](./src/site/_data/fonts/lanapixel/LanaPixel_OpenFontLicense.txt), for navigation items, headings, and other UI elements.
+- [辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin), distributed under [OFL](./src/site/_data/fonts/ChenYuluoyan/license.txt), for the logo glyphs 數 and 位.
 
 #### Colors
 

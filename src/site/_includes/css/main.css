@@ -20,6 +20,11 @@
   src: url('../fonts/lanapixel/LanaPixel.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'ChenYuluoyan-ShuWei';
+  src: url('../fonts/ChenYuluoyan/ChenYuluoyan-ShuWei.woff') format('woff');
+}
+
 
 /* ROOT VARIABLES, FOR USE IN MODULES WHERE APPROPRIATE */
 :root {
