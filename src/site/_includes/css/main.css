@@ -25,6 +25,16 @@
   src: url('../fonts/ChenYuluoyan/ChenYuluoyan-ShuWei.woff') format('woff');
 }
 
+@font-face {
+  font-family: 'Jost';
+  src: url('../fonts/jost/Jost-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../fonts/inter/Inter-Regular.woff') format('woff');
+}
+
 
 /* ROOT VARIABLES, FOR USE IN MODULES WHERE APPROPRIATE */
 :root {
