@@ -77,6 +77,7 @@ const interactiveTypeBlack = (p) => {
   }
 
   p.mouseWheel = function(event) {
+    if (location.pathname === '/') { return; }
     const rangeStep = 10;
     if (event.delta > 0 && mutationRange[0] < 0) {
       mutationRange = [mutationRange[0] + rangeStep, mutationRange[1] - rangeStep];
@@ -89,6 +90,7 @@ const interactiveTypeBlack = (p) => {
   }
 
   p.touchMoved = function(event) {
+    if (location.pathname === '/') { return; }
     const rangeStep =10;
     let touchDelta = touchPointOld - event.touches[0].clientY;
     if (touchDelta > 0 && mutationRange[0] < 0) {
