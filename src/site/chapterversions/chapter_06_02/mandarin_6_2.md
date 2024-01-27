@@ -15,4 +15,5 @@ language: { en: 'Mandarin/華文', iso6392B: 'zh-TW', locale: 'VI 2 職場' }
 chapterid: { chapterid: 6, chapterid_subid: '06-02'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/06-02-職場.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/06-02-職場.md' 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/06-02-工作場所.md'
+ %}
