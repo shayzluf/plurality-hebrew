@@ -36,7 +36,7 @@ layout: home
     </div>
 </div>
 <div style="width: 100%; height: 100%; justify-content: center; align-items: center; gap: 26px; display: inline-flex">
-<div style="width: 100%; height: 100%; padding-left: 0px; padding-right: 101px; padding-top: 50px; padding-bottom: 50px; justify-content: center; align-items: center; gap: 191px; display: inline-flex">
+<div style="width: 100%; height: 100%; padding-left: 0px; padding-right: 101px; padding-top: 50px; padding-bottom: 50px; justify-content: center; align-items: center; gap: 191px; display: inline-flex; background: rgba(0,0,0,0.8)">
     <div style="position:relative;left:-50px;gap: 220px; flex: 1 1 0; height: 674.16px; justify-content: center; align-items: center; display: flex">
         <div style="flex-direction: column; justify-content: center; align-items: flex-start; gap: 48px; display: inline-flex">
             <div style="align-self: stretch; text-align: center; color: white; font-size: 48px; font-family: LanaPixel; font-weight: 400; text-transform: uppercase; word-wrap: break-word">Overview</div>
@@ -98,27 +98,17 @@ layout: home
 
 <div style="width: 100%; height: 100%; justify-content: center; align-items: center; gap: 26px; display: inline-flex">
 <div style="width: 100%; height: 100%; padding-left: 0px; padding-right: 101px; padding-top: 50px; padding-bottom: 50px; justify-content: center; align-items: center; gap: 191px; display: inline-flex">
-    <div style="height: 674.16px;flex: 1 1 0; flex-direction: column; justify-content: center; align-items: center; gap: 120px; display: inline-flex">
+    <div style="height: 674.16px;flex: 1 1 0; flex-direction: column; justify-content: center; align-items: center; gap: 60px; display: inline-flex">
         <div style="flex-direction: column; justify-content: center; align-items: flex-start; gap: 48px; display: flex">
             <div style="align-self: stretch; text-align: center; color: white; font-size: 48px; font-family: LanaPixel; font-weight: 400; text-transform: uppercase; word-wrap: break-word">How does this project work</div>
-            <div style="width: 629.47px; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Plurality is a perpetually evolving work that sources content using gov4git, a novel open-source governance technology. This project does not exist without its community and welcomes your input." To learn more, check out gov4git and the Plurality github repository</div>
+            <div style="width: 629.47px; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Plurality is a perpetually evolving work that sources content using <a href="https://github.com/gov4git/gov4git">gov4git</a>, a novel open-source governance technology. This project does not exist without its community and welcomes your input.<br/><br/>To learn more, check out the Plurality repository on GitHub.</div>
         </div>
 <div style="width: 100%; justify-content: center; align-items: center; gap: 36px; display: inline-flex">
     <div style="justify-content: flex-start; align-items: center; display: flex">
         <div style="padding-left: 12px; padding-right: 12px; background: white; border-radius: 4px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
-            <div style="width: 71px; position: relative"><a href="https://github.com/gov4git/gov4git">
-                <div style="padding-left: 12px;border-radius: 4px;background-color: #FFFFFF; width: 71px; height: 32px; padding-top: 5px; padding-bottom: 5px; left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
-<div style="text-align: center"><span style="background-color: #FFFFFF; color: black; font-size: 14px; font-family: Jost; font-weight: 500; line-height: 19px; word-wrap: break-word">gov4git </span><span style="color: black; font-size: 14px; font-family: LanaPixel; font-weight: 400; line-height: 19px; word-wrap: break-word">↗</span></div>
-                </div>
-                </a>            
-            </div>
-        </div>
-    </div>
-    <div style="justify-content: flex-start; align-items: center; display: flex">
-        <div style="padding-left: 12px; padding-right: 12px; background: white; border-radius: 4px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
             <div style="width: 189px; position: relative"><a href="https://github.com/pluralitybook/plurality">
                 <div style="padding-left: 12px;border-radius: 4px;background-color: #FFFFFF; width: 189px; height: 32px; padding-top: 5px; padding-bottom: 5px; left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
-<div style="text-align: center"><span style="color: black; font-size: 14px; font-family: Jost; font-weight: 500; line-height: 19px; word-wrap: break-word">Plurality Github Repository </span><span style="color: black; font-size: 14px; font-family: LanaPixel; font-weight: 400; line-height: 19px; word-wrap: break-word">↗</span></div>
+<div style="text-align: center"><span style="color: black; font-size: 14px; font-family: Jost; font-weight: 500; line-height: 19px; word-wrap: break-word">Plurality GitHub Repository </span><span style="color: black; font-size: 14px; font-family: LanaPixel; font-weight: 400; line-height: 19px; word-wrap: break-word">↗</span></div>
                 </div>
             </a>
             </div>
@@ -227,8 +217,8 @@ layout: home
                 </div>
             </div>
         </div>
-        <div style="height: 645.08px; padding-left: 120px; padding-right: 120px; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: flex">
-            <div style="padding-top: 64px; padding-bottom: 24px; padding-left: 24px; padding-right: 24px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="height: 645.08px; padding-left: 120px; padding-right: 120px; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: flex; background: rgba(0,0,0,0.8)">
+            <div style="padding-top: 64px; padding-bottom: 96px; padding-left: 24px; padding-right: 24px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
                 <div style="width: 100px; height: 100.08px; position: relative">
                     <div style="border-radius: 50%; width: 5.70px; height: 5.70px; left: 0px; top: 0px; position: absolute; background: white"></div>
                     <div style="border-radius: 50%; width: 5.70px; height: 5.70px; left: 10.47px; top: -0px; position: absolute; background: white"></div>
@@ -282,32 +272,22 @@ layout: home
             </div>
             <div style="align-self: stretch; height: 449px; flex-direction: column; justify-content: center; align-items: center; gap: 48px; display: flex">
                 <div style="align-self: stretch; text-align: center; color: white; font-size: 32px; font-family: LanaPixel; font-weight: 400; text-transform: uppercase; word-wrap: break-word">Overview</div>
-                <div style="align-self: stretch; text-align: center; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">Digital technology has catalyzed polarization, inequality, loneliness and fear. <br/><br/>Plurality details how Digital Minister Audrey Tang and her collaborators – architects of Taiwan’s internationally acclaimed digital democracy – achieved inclusive, technology-fueled growth that harnesses digital tools to strengthen both social unity and diversity. <br/><br/>From intimate digitally empowered telepathy to global trade running on social networks rather than money, Plurality offers tools to radically enrich relationships while making sure we leave no one behind. <br/><br/>The ideas promise to transform every sector from health care to media, as illustrated by the way it has been written: as a chorus of open, self-governing collaboration of voices from around the globe. </div>
+                <div style="align-self: stretch; text-align: center; color: white; font-size: 18px; font-family: Inter; font-weight: 400; word-wrap: break-word">Digital technology has catalyzed polarization, inequality, loneliness and fear. <br/><br/>Plurality details how Digital Minister Audrey Tang and her collaborators – architects of Taiwan’s internationally acclaimed digital democracy – achieved inclusive, technology-fueled growth that harnesses digital tools to strengthen both social unity and diversity. <br/><br/>From intimate digitally empowered telepathy to global trade running on social networks rather than money, Plurality offers tools to radically enrich relationships while making sure we leave no one behind. <br/><br/>The ideas promise to transform every sector from health care to media, as illustrated by the way it has been written: as a chorus of open, self-governing collaboration of voices from around the globe. </div>
             </div>
         </div>
         <div style="align-self: stretch; height: 526px; padding-left: 120px; padding-right: 120px; padding-top: 128px; padding-bottom: 128px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 48px; display: flex">
             <div style="align-self: stretch; height: 270px; flex-direction: column; justify-content: center; align-items: center; gap: 48px; display: flex">
                 <div style="align-self: stretch; text-align: center; color: white; font-size: 32px; font-family: LanaPixel; font-weight: 400; text-transform: uppercase; word-wrap: break-word">How does this project work</div>
-                <div style="align-self: stretch; text-align: center; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">Plurality is a perpetually evolving work that sources content using gov4git, a novel open-source governance technology.  To learn more, check out gov4git and the Plurality github repository</div>
+                <div style="align-self: stretch; text-align: center; color: white; font-size: 18px; font-family: Inter; font-weight: 400; word-wrap: break-word">Plurality is a perpetually evolving work that sources content using <a href="https://github.com/gov4git/gov4git">gov4git</a>, a novel open-source governance technology.  To learn more, check out the Plurality repository on GitHub.</div>
 
 <div style="width: 100%; justify-content: center; align-items: center; gap: 36px; display: inline-flex">
     <div style="justify-content: flex-start; align-items: center; display: flex">
     </div>
     <div style="justify-content: flex-start; align-items: center; display: flex">
         <div style="padding-left: 12px; padding-right: 12px; background: white; border-radius: 4px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
-            <div style="width: 71px; position: relative"><a href="https://github.com/gov4git/gov4git">
+            <div style="width: 124px; position: relative"><a href="https://github.com/pluralitybook/plurality">
                 <div style="padding-left: 12px;border-radius: 4px;background-color: #FFFFFF; width: 71px; height: 32px; padding-top: 5px; padding-bottom: 5px; left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
-<div style="text-align: center"><span style="background-color: #FFFFFF; color: black; font-size: 14px; font-family: Jost; font-weight: 500; line-height: 19px; word-wrap: break-word">gov4git </span><span style="color: black; font-size: 14px; font-family: LanaPixel; font-weight: 400; line-height: 19px; word-wrap: break-word">↗</span></div>
-                </div>
-                </a>            
-            </div>
-        </div>
-    </div>
-    <div style="justify-content: flex-start; align-items: center; display: flex">
-        <div style="padding-left: 12px; padding-right: 12px; background: white; border-radius: 4px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
-            <div style="width: 189px; position: relative"><a href="https://github.com/pluralitybook/plurality">
-                <div style="padding-left: 12px;border-radius: 4px;background-color: #FFFFFF; width: 71px; height: 32px; padding-top: 5px; padding-bottom: 5px; left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
-<div style="text-align: center"><span style="color: black; font-size: 14px; font-family: Jost; font-weight: 500; line-height: 19px; word-wrap: break-word">Github</span><span style="color: black; font-size: 14px; font-family: LanaPixel; font-weight: 400; line-height: 19px; word-wrap: break-word">↗</span></div>
+<div style="text-align: center"><span style="color: black; font-size: 14px; font-family: Jost; font-weight: 500; line-height: 19px; word-wrap: break-word">GitHub</span><span style="color: black; font-size: 14px; font-family: LanaPixel; font-weight: 400; line-height: 19px; word-wrap: break-word">↗</span></div>
                 </div>
             </a>
             </div>
