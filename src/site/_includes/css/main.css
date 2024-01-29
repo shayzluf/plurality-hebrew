@@ -26,6 +26,11 @@
 }
 
 @font-face {
+  font-family: 'Iansui';
+  src: url('../fonts/iansui/Iansui-Regular.woff') format('woff');
+}
+
+@font-face {
   font-family: 'Jost';
   src: url('../fonts/jost/Jost-Regular.woff') format('woff');
 }
@@ -39,7 +44,7 @@
 /* ROOT VARIABLES, FOR USE IN MODULES WHERE APPROPRIATE */
 :root {
   --primary-color: #000;
-  --secondary-color: #fff;
+  --secondary-color: #f1f1f1;
   --font-size-step-0: 100%;
   --font-size-step-1: 100%;
   --font-size-step-2: 100%;

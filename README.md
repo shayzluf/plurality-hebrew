@@ -26,6 +26,7 @@ The website uses the following fonts:
 - [Authentic Sans](https://authentic.website/sans), distributed freely under [WTFPL](http://www.wtfpl.net/), for body text.
 - [Lanapixel](https://opengameart.org/content/lanapixel-localization-friendly-pixel-font), distributed under [OFL](./src/site/_data/fonts/lanapixel/LanaPixel_OpenFontLicense.txt), for navigation items, headings, and other UI elements.
 - [辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin), distributed under [OFL](./src/site/_data/fonts/ChenYuluoyan/license.txt), for the logo glyphs 數 and 位.
+- [芫荽](https://github.com/ButTaiwan/iansui), distributed under [OFL](./src/site/_data/fonts/iansui/OFL.txt), for heading text.
 - [Jost](https://github.com/indestructible-type/Jost/tree/master), distributed under [OFL](./src/site/_data/fonts/jost/OFL.txt), for subtitles.
 - [Inter](https://github.com/rsms/inter/), distributed under [OFL](./src/site/_data/fonts/inter/LICENSE.txt), for overview text.
 
