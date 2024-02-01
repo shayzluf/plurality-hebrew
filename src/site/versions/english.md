@@ -144,7 +144,7 @@ Observing how voting works and doesn't work in today's most common environments,
      
 Explore how the dynamic nature of the Internet supports and facilitates innovation in democratic societies and avoids market monopolies. We will look at new forms of markets in open source ecologies, exploring the dynamic nature of their development to maintain and expand inclusiveness, and to promote more diverse and enriching forms of collaboration and market co-prosperity.
 
-### 06-00 From Plurality to Reality
+## 06-00 From Plurality to Reality
      
 In this chapter, the aim is to outline the broad contours of the Theory of Change of the Plurality, emphasizing how these segments are naturally formed and why experiments in these segments are not only of immediate value, but also have the capacity to spread to the systemic, global empowerment of the Plurality, and to be within reach.
     
