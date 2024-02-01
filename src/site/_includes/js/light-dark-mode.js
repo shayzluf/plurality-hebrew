@@ -14,7 +14,7 @@ if (document.getElementById('nav-right')) {
   const darkMode = document.createElement('a');
   darkMode.classList.add('top-nav-item');
   darkMode.href = '#';
-  darkMode.innerHTML = 'Light Mode';
+  darkMode.innerHTML = 'Dark Mode';
   navRight.appendChild(darkMode);
   darkMode.addEventListener('click', function (e) {
     e.preventDefault();
@@ -28,7 +28,7 @@ if (document.getElementById('mobile-nav-right')) {
   const darkMode = document.createElement('a');
   darkMode.classList.add('nav-item');
   darkMode.href = '#';
-  darkMode.innerHTML = 'Light Mode';
+  darkMode.innerHTML = 'Dark Mode';
   mobileNavRight.appendChild(darkMode);
   darkMode.addEventListener('click', function (e) {
     e.preventDefault();
@@ -36,3 +36,5 @@ if (document.getElementById('mobile-nav-right')) {
     switchMode();
   });
 }
+
+switchMode();
