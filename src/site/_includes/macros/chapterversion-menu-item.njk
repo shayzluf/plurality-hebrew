@@ -8,7 +8,7 @@
             <span style="font-size:36px;">{{chapterid_subid}}</span>
             <span style="font-size:36px;">{{pageTitle}}</span>
             <span style="text-transform: none;"><a href="{{ pageUrl }}?mode=dark" class="button_small">Read in {{ language | capitalize }}</a></span>
-            <span style="text-transform: none;width:48px;"><a href="{{ pageUrl }}?mode=light" class="button_small" style="width:20px;" alt="Open in light mode">💡</a></span>
+            <span style="text-transform: none;width:48px;"><a href="{{ pageUrl }}?mode=light" class="button_small" style="width:20px;" title="Read in light mode">💡</a></span>
       {% if githubLink %}
         <span><a target="_blank" href="{{ githubLink }}">&#8599;&#xFE0E;</a></span>
       {% endif %}
@@ -18,7 +18,7 @@
             <span style="font-size:36px;"></span>
             <span style="font-size:24px;font-family:Iansui">{{subtitleTranslated}}</span>
             <span style="text-transform: none;"><a href="{{ pageUrl }}?mode=dark" class="button_small">{{ language | capitalize }}</a></span>
-            <span style="text-transform: none;width:48px;"><a href="{{ pageUrl }}?mode=light" class="button_small" style="width:20px;" alt="Open in light mode">💡</a></span>
+            <span style="text-transform: none;width:48px;"><a href="{{ pageUrl }}?mode=light" class="button_small" style="width:20px;" title="Read in light mode">💡</a></span>
       {% if githubLink %}
         <span><a target="_blank" href="{{ githubLink }}">&#8599;&#xFE0E;</a></span>
       {% endif %}
