@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter V 1',
     subtitle: 'Post-Symbolic Communication',
-    authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
+    authorsLead: 'By E. Glen Weyl, Audrey Tang and ⿻ Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',
