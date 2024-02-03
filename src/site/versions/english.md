@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Plurality',
     subtitle: 'The Future of Collaborative Technology and Democracy',
-    authorsLead: 'E. Glen Weyl, Audrey Tang and the ⿻ Community',
+    authorsLead: 'E. Glen Weyl, Audrey Tang and ⿻ Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',
