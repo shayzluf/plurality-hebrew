@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Plurality',
     subtitle: 'The Future of Collaborative Technology and Democracy',
-    authorsLead: 'By Audrey Tang and E. Glen Weyl',
+    authorsLead: 'E. Glen Weyl, Audrey Tang and the ⿻ Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',
@@ -23,7 +23,7 @@ The goal of Plurality is to support democracy through digital technology, and to
 
 Our project will be carried out in conjunction with Plurality research and implementation. We have taken the concepts in the book and applied them directly to the creation, distribution, and financial assistance of this book. All material is "free cultural works" under the most liberal Creative Commons CC0 license. We have openly used decentralized versioning to write this book, solicited editorial and research assistants from the community, and solicited contributors to help us prioritize and merge branching releases and determine the content of subsequent books.
 
-We don't just need hackers and writers, we need designers, storytellers, marketers and distributors to work with us. Under no circumstances will Tang and Glenn receive any compensation or royalties for writing this book, in keeping with the legal code that accompanies their positions; revenue will only be used to support the community and philanthropic mission we hope to build.
+We don't just need hackers and writers, we need designers, storytellers, marketers and distributors to work with us. Under no circumstances will Tang and Glen receive any compensation or royalties for writing this book, in keeping with the legal code that accompanies their positions; revenue will only be used to support the community and philanthropic mission we hope to build.
 
 If you would like to contribute, [please join our Discord community](https://discord.com/invite/YWSDRqdW5n). If we can imagine and explain together, it is possible that the future of technology will recognize and support the values we hold dear.
 
@@ -144,7 +144,7 @@ Observing how voting works and doesn't work in today's most common environments,
      
 Explore how the dynamic nature of the Internet supports and facilitates innovation in democratic societies and avoids market monopolies. We will look at new forms of markets in open source ecologies, exploring the dynamic nature of their development to maintain and expand inclusiveness, and to promote more diverse and enriching forms of collaboration and market co-prosperity.
 
-### 06-00 From Plurality to Reality
+## 06-00 From Plurality to Reality
      
 In this chapter, the aim is to outline the broad contours of the Theory of Change of the Plurality, emphasizing how these segments are naturally formed and why experiments in these segments are not only of immediate value, but also have the capacity to spread to the systemic, global empowerment of the Plurality, and to be within reach.
     
