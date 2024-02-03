@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter VI 0',
     subtitle: 'From Plurality to Reality',
-    authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
+    authorsLead: 'By E. Glen Weyl, Audrey Tang and ⿻ Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',

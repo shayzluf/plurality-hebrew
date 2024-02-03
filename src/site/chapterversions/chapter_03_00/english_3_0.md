@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter III 0',
     subtitle: 'A View from Yu Shan',
-    authorsLead: 'By Audrey Tang, E. Glen Weyl and the Plurality Community',
+    authorsLead: 'By E. Glen Weyl, Audrey Tang and ⿻ Community',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',
