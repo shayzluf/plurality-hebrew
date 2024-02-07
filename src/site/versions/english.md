@@ -80,11 +80,11 @@ From the most fundamental entities in quantum mechanics to the vastness of the u
     
 Modern science (especially complexity theory) shows world is made up of diverse and interwoven groups, not just individuals and societies.
 
-### 03-02 The Engine of Progress
+### 03-02 The Lost Dao
 
 Plural social science (pioneered by figures like Henry George, Georg Simmel and Norbert Wiener) and political philosophy (pioneered by figures like John Dewey, Hannah Arendt and Danielle Allen) highlight that collaboration is the engine of social progress, while diversity is the fuel it runs on.
     
-### 03-03 The Lost Dao
+### 03-03 Technology for collaborative diversity
     
 The personal computing and internet revolutions led by pioneers like JCR Licklider and Douglas Engelbart, modeled the central role of digital technology in constructing and improving these engines of collaboration across diversity, a lost tradition which the rest of the book picks up.
 
