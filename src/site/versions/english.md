@@ -158,11 +158,11 @@ The workplace accounts for about 70% of the world's economic output, and it is t
 
 ### 06-03 Learning
 
-(to be completed)
+During the 2020s, the global learning landscape has undergone a tremendous digital transformation, expanding well beyond traditional classrooms and textbooks. This chapter shows how Plurality can adapt to diverse learning styles, empowering communities to overcome rigid, one-size-fits-all educational models. We showcase real-life examples of collaborative problem-solving, purpose-based learning, and connecting students worldwide through edutainment projects, while promoting the spirit of autonomy, interaction, and common good across cultural and geographic divides.
 
 ### 06-04 Media
      
-One of the key promises of digital technology is to transform the media. In this chapter, we look keenly at the dangers and harms that digital technology and social media have done to the media, while exploring the potential for making them better, revealing how the Plurality can help to correct many of these harms, and together we can help to realize the potential that pioneers such as Leek and Taylor saw in the digital media, and together we can solve and reverse many of the crises that the media face today, such as restoring trust in the media, respecting the principle of confidentiality, and reducing "polarization of feeling". confidentiality, and reducing "polarization of feeling".
+One of the key promises of digital technology is to transform the media. In this chapter, we look keenly at the dangers and harms that digital technology and social media have done to the media, while exploring the potential for making them better, revealing how the Plurality can help to correct many of these harms, and together we can help to realize the potential that pioneers such as Lick and Taylor saw in the digital media, and together we can solve and reverse many of the crises that the media face today, such as restoring trust in the media, respecting the principle of confidentiality, and reducing "polarization of feeling".
 
 ### 06-05 Energy
 
