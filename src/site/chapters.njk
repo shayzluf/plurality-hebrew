@@ -63,7 +63,7 @@ permalink: "/chapters/"
 {% if ((version.data.language.en) == 'english')%}
 </div>
 {% if ((version.data.chapterid.chapterid_subid) == '01') %}
-          <li style="font-size:40px;padding:0 28px;">Section {{ version.data.chapterid.chapterid }}</li>
+          <li style="font-size:40px;padding:0 28px;">Section {{ version.data.chapterid.chapterid }} {{ version.data.chapterid.section_title }}</li>
     <div>
         {% endif %}
 
@@ -72,10 +72,10 @@ permalink: "/chapters/"
     or ((version.data.chapterid.chapterid_subid) == '04-00' )
     or ((version.data.chapterid.chapterid_subid) == '05-00' )
     or ((version.data.chapterid.chapterid_subid) == '06-00' )
-    or ((version.data.chapterid.chapterid_subid) == '07-01' )
+    or ((version.data.chapterid.chapterid_subid) == '07-00' )
     %}
 </div>
-          <li style="font-size:40px;padding:56px 28px 0px 28px;">Section {{ version.data.chapterid.chapterid }}</li>
+          <li style="font-size:40px;padding:56px 28px 0px 28px;">Section {{ version.data.chapterid.chapterid }} {{ version.data.chapterid.section_title }}</li>
     <div>
         {% endif %}
         {% endif %}

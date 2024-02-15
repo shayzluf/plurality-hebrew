@@ -12,7 +12,7 @@ translations:
     chapters: 'chapters',
   }
 language: { en: 'english', iso6392B: 'eng', locale: 'VI 0 From Plurality to Reality' }
-chapterid: { chapterid: 6, chapterid_subid: '06-00'}
+chapterid: { chapterid: 6, chapterid_subid: '06-00',  section_title: 'Impact' }
 translators: []
 ---
 {% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/06-00-from-plurality-to-reality.md' %}

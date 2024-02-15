@@ -12,7 +12,7 @@ translations:
     chapters: 'chapters',
   }
 language: { en: 'english', iso6392B: 'eng', locale: 'V 0 Collaborative Technology and Democracy' }
-chapterid: { chapterid: 5, chapterid_subid: '05-00'}
+chapterid: { chapterid: 5, chapterid_subid: '05-00', section_title: 'Democracy' }
 translators: []
 ---
 {% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/05-00-collaborative-technology-and-democracy.md' %}
