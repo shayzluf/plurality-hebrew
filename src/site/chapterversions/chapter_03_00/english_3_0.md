@@ -12,7 +12,7 @@ translations:
     chapters: 'chapters',
   }
 language: { en: 'english', iso6392B: 'eng', locale: 'III 0 What is Plurality?' }
-chapterid: { chapterid: 3, chapterid_subid: '03-00'}
+chapterid: { chapterid: 3, chapterid_subid: '03-00', section_title: 'Plurality' }
 translators: []
 ---
 {% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/03-00-what-is-plurality.md' %}

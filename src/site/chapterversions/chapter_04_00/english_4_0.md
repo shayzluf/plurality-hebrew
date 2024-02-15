@@ -12,7 +12,7 @@ translations:
     chapters: 'chapters',
   }
 language: { en: 'english', iso6392B: 'eng', locale: 'IV 0 Rights, Operating Systems and Digital Freedom' }
-chapterid: { chapterid: 4, chapterid_subid: '04-00'}
+chapterid: { chapterid: 4, chapterid_subid: '04-00',  section_title: 'Freedom' }
 translators: []
 ---
 {% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/04-00-rights-os-and-digital-freedom.md' %}
