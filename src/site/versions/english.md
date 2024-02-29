@@ -68,7 +68,7 @@ In a poetic and spiritual tone, the outlines of people's imagination of the Plur
 
 There is a striking split between democracy and technology, and this chapter maps out the deeper conflict between technological development and the principles of a democratic society. Even though the potential of the technologies derived from AI and web3 is immense, these directions are often linked to political concepts that run counter to democratic societies, with the core concepts of authoritarianism and extreme individualism. However, we can try to overcome these challenges, and properly conceived technology and democracy are powerful and natural allies of each other, as we will argue in this chapter.
     
-### 02-01 A View from Yu Shan
+### 02-01 A View from Yushan
 
 Taiwan, situated at the junction of the Eurasian and American tectonic plates, is at the crossroads of authoritarian AI ideology, American capitalism, and European value-based management ideology. The fault lines between the tectonic plates have caused Taiwan's highest peak, Yushan, to push upward; these clashes of ideas between different cultures have allowed Taiwan to develop a rich diversity of collaborative and dynamic perspectives, and to become the most technologically advanced and democratically active country in the world. In this chapter, the history and development of digital democracy in Taiwan and the daily life of its civil society are vividly and emotionally depicted from various perspectives, and compared with other liberal democracies in the world today.
 
