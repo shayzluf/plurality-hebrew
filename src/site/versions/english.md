@@ -68,7 +68,7 @@ In a poetic and spiritual tone, the outlines of people's imagination of the Plur
 
 There is a striking split between democracy and technology, and this chapter maps out the deeper conflict between technological development and the principles of a democratic society. Even though the potential of the technologies derived from AI and web3 is immense, these directions are often linked to political concepts that run counter to democratic societies, with the core concepts of authoritarianism and extreme individualism. However, we can try to overcome these challenges, and properly conceived technology and democracy are powerful and natural allies of each other, as we will argue in this chapter.
     
-### 02-01 A View from Yu Shan
+### 02-01 A View from Yushan
 
 Taiwan, situated at the junction of the Eurasian and American tectonic plates, is at the crossroads of authoritarian AI ideology, American capitalism, and European value-based management ideology. The fault lines between the tectonic plates have caused Taiwan's highest peak, Yushan, to push upward; these clashes of ideas between different cultures have allowed Taiwan to develop a rich diversity of collaborative and dynamic perspectives, and to become the most technologically advanced and democratically active country in the world. In this chapter, the history and development of digital democracy in Taiwan and the daily life of its civil society are vividly and emotionally depicted from various perspectives, and compared with other liberal democracies in the world today.
 
@@ -80,11 +80,11 @@ From the most fundamental entities in quantum mechanics to the vastness of the u
     
 Modern science (especially complexity theory) shows world is made up of diverse and interwoven groups, not just individuals and societies.
 
-### 03-02 The Lost Dao
+### 03-02 Connected Society
 
 Plural social science (pioneered by figures like Henry George, Georg Simmel and Norbert Wiener) and political philosophy (pioneered by figures like John Dewey, Hannah Arendt and Danielle Allen) highlight that collaboration is the engine of social progress, while diversity is the fuel it runs on.
     
-### 03-03 Technology for collaborative diversity
+### 03-03 The Lost Dao
     
 The personal computing and internet revolutions led by pioneers like JCR Licklider and Douglas Engelbart, modeled the central role of digital technology in constructing and improving these engines of collaboration across diversity, a lost tradition which the rest of the book picks up.
 
