@@ -1,5 +1,5 @@
 ---
-title: 'Rights, Operating Systems and Digital Freedom'
+title: 'Rights, Operating Systems and ⿻ Freedom'
 githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/04-00-rights-os-and-⿻-freedom.md'
 dateStartedString: { day: '30', month: '08', year: '2023' }
 translations:
