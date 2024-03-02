@@ -1,11 +1,11 @@
 ---
-title: 'Association and Plural Publics'
+title: 'Association and ⿻ Publics'
 githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/04-02-association-and-⿻-publics.md'
 dateStartedString: { day: '30', month: '08', year: '2023' }
 translations:
   {
     plurality: 'Chapter IV 2',
-    subtitle: 'Association and Plural Publics',
+    subtitle: 'Association and ⿻ Publics',
     authorsLead: 'By E. Glen Weyl, Audrey Tang and ⿻ Community',
     translatorsLead: 'Translated by:',
     return: 'return',
