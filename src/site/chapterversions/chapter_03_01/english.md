@@ -1,11 +1,11 @@
 ---
-title: 'Living in a Plural World'
+title: 'Living in a ⿻ World'
 githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/03-01-living-in-a-⿻-world.md'
 dateStartedString: { day: '20', month: '03', year: '2023' }
 translations:
   {
     plurality: 'Chapter III',
-    subtitle: 'Living in a Plural World',
+    subtitle: 'Living in a ⿻ World',
     authorsLead: 'By E. Glen Weyl, Audrey Tang and ⿻ Community',
     translatorsLead: 'Translated by:',
     return: 'return',
