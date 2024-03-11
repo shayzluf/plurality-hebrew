@@ -6,7 +6,7 @@ translations:
   {
     plurality: 'Chapter 0 1',
     subtitle: 'About the Authors',
-    authorsLead: 'By E. Glen Weyl, Audrey Tang and ⿻ Community',
+    authorsLead: '',
     translatorsLead: 'Translated by:',
     return: 'return',
     chapters: 'chapters',

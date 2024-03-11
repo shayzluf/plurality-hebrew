@@ -1,5 +1,5 @@
 ---
-title: ''
+title: '關於作者群'
 githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/00-00-關於作者群.md'
 dateStartedString: { day: '10', month: '03', year: '2024' }
 translations:
