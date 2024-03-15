@@ -1,6 +1,6 @@
 ---
 title: 'Identity and Personhood'
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/04-01-identity-and-personhood.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/english/4-1-identity-and-personhood.md'
 dateStartedString: { day: '30', month: '08', year: '2023' }
 translations:
   {
@@ -12,7 +12,7 @@ translations:
     chapters: 'chapters',
   }
 language: { en: 'english', iso6392B: 'eng', locale: 'IV 1 Identity and Personhood' }
-chapterid: { chapterid: 4, chapterid_subid: '04-01'}
+chapterid: { chapterid: 4, chapterid_subid: '4-1'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/04-01-identity-and-personhood.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/english/4-1-identity-and-personhood.md' %}
