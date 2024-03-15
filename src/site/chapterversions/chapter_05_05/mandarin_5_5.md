@@ -1,6 +1,6 @@
 ---
 title: ''
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/05-05-適應式行政.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/5-5-適應式行政.md'
 dateStartedString: { day: '25', month: '02', year: '2024' }
 translations:
   {
@@ -12,7 +12,7 @@ translations:
     chapters: '章節',
   }
 language: { en: 'Mandarin/華文', iso6392B: 'zh-TW', locale: 'V 5 適應式行政' }
-chapterid: { chapterid: 5, chapterid_subid: '05-05'}
+chapterid: { chapterid: 5, chapterid_subid: '5-5'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/05-05-適應式行政.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/5-5-適應式行政.md' %}

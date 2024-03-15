@@ -1,6 +1,6 @@
 ---
 title: ''
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/06-02-健康.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/6-2-健康.md'
 dateStartedString: { day: '03', month: '03', year: '2024' }
 translations:
   {
@@ -12,7 +12,7 @@ translations:
     chapters: '章節',
   }
 language: { en: 'Mandarin/華文', iso6392B: 'zh-TW', locale: 'VI 2 健康' }
-chapterid: { chapterid: 6, chapterid_subid: '06-02'}
+chapterid: { chapterid: 6, chapterid_subid: '6-2'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/06-02-健康.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/6-2-健康.md' %}

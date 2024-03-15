@@ -1,6 +1,6 @@
 ---
 title: ''
-githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/05-06-⿻投票.md'
+githubLink: 'https://github.com/pluralitybook/plurality/blob/main/contents/traditional-mandarin/5-6-⿻投票.md'
 dateStartedString: { day: '27', month: '11', year: '2023' }
 translations:
   {
@@ -12,7 +12,7 @@ translations:
     chapters: '章節',
   }
 language: { en: 'Mandarin/華文', iso6392B: 'zh-TW', locale: 'V 6 ⿻投票' }
-chapterid: { chapterid: 5, chapterid_subid: '05-06 ⿻投票'}
+chapterid: { chapterid: 5, chapterid_subid: '5-6 ⿻投票'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/05-06-⿻投票.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/pluralitybook/plurality/main/contents/traditional-mandarin/5-6-⿻投票.md' %}

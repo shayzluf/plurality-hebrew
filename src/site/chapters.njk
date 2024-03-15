@@ -62,18 +62,18 @@ permalink: "/chapters/"
     {% for version in collections.chapterversions |sortDataByChapteridSubidLanguageIso %}
 {% if ((version.data.language.en) == 'english')%}
 </div>
-{% if ((version.data.chapterid.chapterid_subid) == '00-01') %}
+{% if ((version.data.chapterid.chapterid_subid) == '0-1') %}
           <li style="font-size:40px;padding:0 28px;">Part {{ version.data.chapterid.chapterid }} {{ version.data.chapterid.section_title }}</li>
     <div>
         {% endif %}
 
-{% if ((version.data.chapterid.chapterid_subid) == '03-00')
-    or ((version.data.chapterid.chapterid_subid) == '02-00')
-    or ((version.data.chapterid.chapterid_subid) == '01')
-    or ((version.data.chapterid.chapterid_subid) == '04-00' )
-    or ((version.data.chapterid.chapterid_subid) == '05-00' )
-    or ((version.data.chapterid.chapterid_subid) == '06-00' )
-    or ((version.data.chapterid.chapterid_subid) == '07-00' )
+{% if ((version.data.chapterid.chapterid_subid) == '3-0')
+    or ((version.data.chapterid.chapterid_subid) == '2-0')
+    or ((version.data.chapterid.chapterid_subid) == '1')
+    or ((version.data.chapterid.chapterid_subid) == '4-0' )
+    or ((version.data.chapterid.chapterid_subid) == '5-0' )
+    or ((version.data.chapterid.chapterid_subid) == '6-0' )
+    or ((version.data.chapterid.chapterid_subid) == '7-0' )
     %}
 </div>
           <li style="font-size:40px;padding:56px 28px 0px 28px;">Part {{ version.data.chapterid.chapterid }} {{ version.data.chapterid.section_title }}</li>
