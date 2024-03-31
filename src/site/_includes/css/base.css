@@ -93,3 +93,11 @@ hr {
     padding-bottom:96px;
   }
 }
+
+#endorse {
+  margin-left: var(--padding-step-4);
+  margin-right: var(--padding-step-4);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4vw;
+}
