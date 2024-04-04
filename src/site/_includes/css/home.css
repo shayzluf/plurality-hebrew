@@ -119,6 +119,13 @@
   transform: translate(-50%, -50%);
 }
 
+#endorse {
+  margin-left: var(--padding-step-4);
+  margin-right: var(--padding-step-4);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4vw;
+}
 
 /* MOBILE HANDLING */
 @media screen and (max-width: 768px) {
@@ -127,6 +134,13 @@
   }
   #version-menu > #version-ol {
     padding: var(--top-offset) calc(var(--padding-step-4)) calc(var(--top-offset)/2) calc(var(--padding-step-4));
+  }
+  #endorse {
+    margin-left: var(--padding-step-4);
+    margin-right: var(--padding-step-4);
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 4vw;
   }
 }
   
