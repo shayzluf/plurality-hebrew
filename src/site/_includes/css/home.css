@@ -127,6 +127,16 @@
   gap: 4vw;
 }
 
+#endorse blockquote p {
+  background: rgba(0, 0, 0, 0.75);
+  padding: 20px;
+  border-radius: 30px;
+  display: block;
+  font-family: Jost;
+  font-size: 20px;
+  border: 3px #222 solid;
+}
+
 /* MOBILE HANDLING */
 @media screen and (max-width: 768px) {
   #interactive-type {
