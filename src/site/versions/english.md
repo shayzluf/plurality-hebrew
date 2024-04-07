@@ -100,7 +100,7 @@ Plural social science (pioneered by figures like Henry George, Georg Simmel and 
     
 The personal computing and internet revolutions led by pioneers like JCR Licklider and Douglas Engelbart, modeled the central role of digital technology in constructing and improving these engines of collaboration across diversity, a lost tradition which the rest of the book picks up.
 
-* Exploring the personal computer and Internet revolutions led by Internet pioneers such as JCR Licklider and Douglas Engelbart, which shaped the dynamics of digital technology in constructing and improving these cross-diversities, such as the central role of the engine of cooperation, which shaped the bright nodes of community networked co-creativity, such as Wikipedia, and the open-source software that continues this ideal through collaboration, sharing, and democratic participation. a lost tradition which the rest of the book picks up.
+* Exploring the personal computer and Internet revolutions led by Internet pioneers such as JCR Licklider and Douglas Engelbart, which shaped the dynamics of digital technology in constructing and improving these cross-diversities, such as the central role of the engine of cooperation, which shaped the bright nodes of community networked co-creativity, such as Wikipedia, and the open-source software that continues this ideal through collaboration, sharing, and democratic participation — a lost tradition which the rest of the book picks up.
 
 
 ## 4-0 Rights, Operating Systems and Digital Freedom
@@ -133,11 +133,11 @@ The beginning of Chapter 5 sets the framework for the chapters that follow. Expl
 
 ### 5-1 Post-symbolic Communication
 
-The ethical issues involved in a deeply interconnected environment include concerns about privacy and the protection of individual autonomy of thought. As we stand on the cusp of this communication revolution, we must prepare for a future in which thoughts and feelings flow as freely as they do in the Plurality, where understanding is not impeded by ambiguity of speech, and where human beings share their experiences with the same degree of vividness as when they experience them for themselves.
+The ethical issues involved in a deeply interconnected environment include concerns about privacy and the protection of individual autonomy of thought. As we stand on the cusp of this communication revolution, we must prepare for a ⿻ future in which thoughts and feelings flow as freely, where understanding is not impeded by ambiguity of speech, and where human beings share their experiences with the same degree of vividness as when they experience them for themselves.
 
 ### 5-2 Immersive Shared Reality
 
-Situated at the forefront of the development of virtual reality technologies, we explore their applications and potential while observing how they can optimize digital and physical modes of interaction, facilitate more integrated and collective experiences of immersive technologies, and extend the experience of everything by facilitating interactions beyond traditional social and spatial constraints. Emphasize the critical role these technologies may play in environmental and climate engagement to create sustainable and environmentally friendly shared environments.
+Situated at the forefront of the development of virtual reality technologies, we explore their applications and potential while observing how they can reconfigure digital and physical modes of interaction, facilitate more integrated and collective experiences of immersive technologies, and extend the experience of everything by facilitating interactions beyond traditional social and spatial constraints. Emphasize the critical role these technologies may play in environmental and climate engagement to create sustainable and environmentally friendly shared environments.
     
 ### 5-3 Creative Collaborations
 
@@ -147,11 +147,11 @@ Collobration on creative expression (from bands playing music to crews making fi
 
 ### 5-4 Augmented Deliberation
      
-Observing the forms of communication and collaboration in the history of mankind, the advancement of technology and the Plurality will make language a motor of unprecedented multiplication and diversity of communication; "listening" will be possible: millions of people will be able to receive the essence of the opinions of their peers, thus realizing democratic deliberation on a large scale.
+Observing the forms of communication and collaboration in the history of mankind, the advancement of technology and the Plurality will make language a motor of unprecedented multiplication and diversity of communication; "active listening" will be possible at large scale: millions of people will be able to receive the essence of the opinions of their peers, thus realizing democratic deliberation on a large scale.
     
 ### 5-5 Adaptive Administration
 
-Many administrative systems have forced homogenization, where people adapt their social practices and educational trajectories to "fit in" and be "legibile".  Increasingly advanced machine translation and prediction tools can make far greater diversity consistent with large-scale social cooperation, repurposing of land and legal administration.
+Many administrative systems have forced homogenization, where people adapt their social practices and educational trajectories to "fit in" and be "legible".  Increasingly advanced machine translation and prediction tools can make far greater diversity consistent with large-scale social cooperation, repurposing of land and legal administration.
 
 ### 5-6 ⿻ Voting
 
