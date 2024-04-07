@@ -72,8 +72,6 @@ There is a striking split between democracy and technology, and this chapter map
 
 Taiwan, situated at the junction of the Eurasian and American tectonic plates, is at the crossroads of authoritarian AI ideology, American capitalism, and European value-based management ideology. The fault lines between the tectonic plates have caused Taiwan's highest peak, Yushan, to push upward; these clashes of ideas between different cultures have allowed Taiwan to develop a rich diversity of collaborative and dynamic perspectives, and to become the most technologically advanced and democratically active country in the world. In this chapter, the history and development of digital democracy in Taiwan and the daily life of its civil society are vividly and emotionally depicted from various perspectives, and compared with other liberal democracies in the world today.
 
-* Taiwan, the meeting place amidst the swirling seas — Tavoan, sits at the junction of the Eurasian and American tectonic plates, also at the crossroads of authoritarian AI ideology, American capitalism, and European value-based management ideology. The tectonic plate interactions push Yushan, Taiwan's highest peak, ever upwards; these clashes between different cultural ideologies have led Taiwan to develop a rich diversity of collaborative endeavors, identity recognition, and vigorous viewpoints. Facing complex and shifting situations, Taiwan still fosters remote collaboration with the international community, becoming one of the most technologically advanced and democratically active countries in the world.
-
 ### 2-1 The Life of A Digital Democracy
 
 This chapter vividly and emotionally depicts Taiwan's unique and profound approach to digital democracy and the daily life of its civil society from various perspectives, contrasting with the current state of other free democratic nations around the world. It moves through analogies and narratives of technological philosophy, presenting a comprehensive examination of Taiwan's pioneering role in open government and innovative digital democratic practices.
@@ -82,26 +80,17 @@ This chapter vividly and emotionally depicts Taiwan's unique and profound approa
 
 From the most fundamental entities in quantum mechanics to the vastness of the universe, in the endless combinations of diversity, we need to protect and actively encourage diversity, and strengthen communication and cooperation across differences. Information technology and the emergence of diversity will help to grow modes of interaction across divided social relationships and facilitate these relationships and organizations across networks.
 
-* From the foundational entities in quantum mechanics to the vast expanse of the universe, amidst the endless combinations of diversity, we must protect and actively promote diversity, enhancing communication and cooperation across differences. Information technology and the concept of plurality will benefit from fostering modes of interaction that bridge divided social relationships, promoting cross-network relationships and organizations, emerging as the contours of the ⿻(Plurality) as the boundless potential across differences
-
 ### 3-1 Living in a ⿻ World
     
-Modern science (especially complexity theory) shows world is made up of diverse and interwoven groups, not just individuals and societies.
-
-* Modern science, particularly complexity theory, demonstrates that the world is composed of diverse and interwoven group relationships, beyond just the individual and societal level; technology, following the lead of science, uncovers the emergent contexts produced by network interactions, envisioning a pluralistic future. Through the analogy of Plurality and interactions within social systems, it becomes clear that the choices extend beyond atomic monism and libertarianism.
+Modern science, particularly complexity theory, demonstrates that the world is composed of diverse and interwoven group relationships, beyond just the individual and societal level; technology, following the lead of science, uncovers the emergent contexts produced by network interactions, envisioning a ⿻ future.
 
 ### 3-2 Connected Society
 
 Plural social science (pioneered by figures like Henry George, Georg Simmel and Norbert Wiener) and political philosophy (pioneered by figures like John Dewey, Hannah Arendt and Danielle Allen) highlight that collaboration is the engine of social progress, while diversity is the fuel it runs on.
 
-* Pluralistic social science (by Henry George, Georg Zimmer, John Dewey, and Norbert Wiener) points to the complexity of interwoven networks of people, the intersectionality and stratification of societies, and a range of philosophical and technological developments. It lays the theoretical foundation for the networked, pluralistic and dynamic nature of society. Emphasizing that cooperation is the driving force of social progress and diversity is the fuel of social progress, it provides a rich source of insight and imagination for Plurality for ⿻.
-    
 ### 3-3 The Lost Dao
     
-The personal computing and internet revolutions led by pioneers like JCR Licklider and Douglas Engelbart, modeled the central role of digital technology in constructing and improving these engines of collaboration across diversity, a lost tradition which the rest of the book picks up.
-
-* Exploring the personal computer and Internet revolutions led by Internet pioneers such as JCR Licklider and Douglas Engelbart, which shaped the dynamics of digital technology in constructing and improving these cross-diversities, such as the central role of the engine of cooperation, which shaped the bright nodes of community networked co-creativity, such as Wikipedia, and the open-source software that continues this ideal through collaboration, sharing, and democratic participation — a lost tradition which the rest of the book picks up.
-
+The personal computing and internet revolutions led by pioneers like JCR Licklider and Douglas Engelbart, modeled the central role of digital technology in constructing and improving these engines of collaboration across diversity — a lost tradition which the rest of the book picks up.
 
 ## 4-0 Rights, Operating Systems and Digital Freedom
 
@@ -143,8 +132,6 @@ Situated at the forefront of the development of virtual reality technologies, we
 
 Collobration on creative expression (from bands playing music to crews making films) has long been the core of the most ambitious creative experiences. Today advanced technologies allow us to take these endeavors to new heights, as we can blend and complement one another's skills across cultural and physical divides as never before.
 
-* Creative collaboration has blossomed in the digital era across geographical and domain boundaries, opening up unprecedented collective wisdom and innovation. In the future, with the help of cutting-edge technologies such as mind-aware corresponding communication and cross-species cooperation, creativity will be redefined to stimulate deep and extensive communication and collaboration, but it is also necessary to be vigilant against the risks of privacy and homogenization.
-
 ### 5-4 Augmented Deliberation
      
 Observing the forms of communication and collaboration in the history of mankind, the advancement of technology and the Plurality will make language a motor of unprecedented multiplication and diversity of communication; "active listening" will be possible at large scale: millions of people will be able to receive the essence of the opinions of their peers, thus realizing democratic deliberation on a large scale.
@@ -163,10 +150,8 @@ Explore how the dynamic nature of the Internet supports and facilitates innovati
 
 ## 6-0 From ⿻ to Reality
      
-In this chapter, the aim is to outline the broad contours of the Theory of Change of the Plurality, emphasizing how these segments are naturally formed and why experiments in these segments are not only of immediate value, but also have the capacity to spread to the systemic, global empowerment of the Plurality, and to be within reach.
+In this chapter, the aim is to outline the broad contours of the Theory of Change of ⿻, emphasizing how these segments are naturally formed and why experiments in these segments are not only of immediate value, but also have the capacity to spread to the systemic, global empowerment of ⿻.
 
-* This chapter outlines the broad contours of the Theory of Change for ⿻, clearly revealing how these segments naturally form and why experiments within these segments not only possess immediate and direct developmental value but also have the capacity to extend into wider systemic applications. It emphasizes Plurality's global reach and accessibility, encouraging participation from every role within it.
-    
 ### 6-1 Workplace
 
 The workplace accounts for about 70% of the world's economic output, and it is the first thing most people think of when they hear the word "economy". In this chapter, we consider how digital technology can contribute to the vast potential of the economy by opening up the natural range of shared remoteness, place design, and space for improved communication and participation on the Internet, and by developing the digital potential of human talent rather than pointing to technology as a substitute for human participation in the model of contribution.
@@ -175,33 +160,21 @@ The workplace accounts for about 70% of the world's economic output, and it is t
 
 How civil society can rapidly design systems to allocate public health resources and target transmission chains to flexibly identify and respond to public health crises such as pandemics, minimizing the economic burden.
 
-* How civil society responds to innovations in health technology, flexibly overcoming global health obstacles, more effectively distributing public health resources, identifying disease transmission chains, and reducing the economic burden of crises. The potential of ⿻ technology designs systems that can bridge gaps, quickly identify, and respond to public health emergencies like pandemics.
-
 ### 6-3 Media
 
-One of the key promises of digital technology is to transform the media. In this chapter, we look keenly at the dangers and harms that digital technology and social media have done to the media, while exploring the potential for making them better, revealing how the Plurality can help to correct many of these harms, and together we can help to realize the potential that pioneers such as Lick and Taylor saw in the digital media, and together we can solve and reverse many of the crises that the media face today, such as restoring trust in the media, respecting the principle of confidentiality, and reducing "polarization of feeling".
-
-* One of the key promises of digital technology is its transformative impact on media. This chapter keenly observes the dangers and harms digital technology and social media have inflicted on the public, while exploring their better development potential, the empathetic coexistence of Plurality — by expanding public participation, restoring social trust, and reducing polarization, it seeks to reverse many of the crises facing the media today.
-
+One of the key promises of digital technology is to transform the media. In this chapter, we look keenly at the dangers and harms that digital technology and social media have done to the media, while exploring the potential for making them better, revealing how the Plurality can help to correct many of these harms, and together we can help to realize the potential that pioneers such as Lick and Taylor saw in the digital media, reversing many of the crises that the media face today, such as depolarization, restoring trust in the media, and respecting the principle of confidentiality.
 
 ### 6-4 Environment 
 
 Civil society forms "data for the public good" coalitions, collectively consults with governments on environmental responsibility, and ensures that members of the community act in a publicly beneficial way, so that local and global environmental hazards can be quickly identified without violating privacy.
 
-* ⿻ technology will change the relationship between humanity and nature from domination to collaborative co-prosperity. Through forming "data for the public good" coalitions and collective government consultations, it ensures community act in a publicly beneficial way. From local to global levels, innovative dialogues with the natural environment can co-create a more natural future, quickly identifying various hazards without infringing on privacy.
-
 ### 6-5 learning
 
 During the 2020s, the global learning landscape has undergone a tremendous digital transformation, expanding well beyond traditional classrooms and textbooks. This chapter shows how Plurality can adapt to diverse learning styles, empowering communities to overcome rigid, one-size-fits-all educational models. We showcase real-life examples of collaborative problem-solving, purpose-based learning, and connecting students worldwide through edutainment projects, while promoting the spirit of autonomy, interaction, and common good across cultural and geographic divides.
 
-* The 2020s witnessed a massive digital transformation in the global learning environment, extending far beyond traditional classrooms and textbooks. This chapter demonstrates how Plurality adapts to diverse learning styles, empowering communities to overcome rigid and standardized educational models. Through lifelong learning, open sharing, and the core spirit of edutainment, everyone can explore their potential, developing a multi-layered sense of belonging within autonomy, interaction, and common good across cultural and geographic divides.Enjoy unlimited games.
-
-    
 ## 7-0 Policy
      
-"The vision of the Plurality requires large-scale global support and includes the motivation to integrate the resources of societies and nations across borders to achieve sustainability that transcends national interests. Community experiments around the world should be closely linked to standardization efforts to achieve digital democracy and the co-prosperity of a pluralistic society through the use of digital networks of citizens similar to those in Taiwan. (Compare this to the ARPANET-funded network of research laboratories, the building blocks of the early Internet, and extend it to our current multipolar world.)
-
-* The vision of ⿻ requires large-scale global support, including the integration of resources from societies and nations across borders to foster a sustainability that transcends national interests. Community experiments worldwide should be closely linked with standardization efforts to achieve digital democracy and the co-prosperity of a pluralistic society through networks of digital ministers similar to those in Taiwan. This mirrors the early construction plans of the Internet (like the ARPANET-funded network of research labs) and extends it to our current multipolar world.
+The vision of ⿻ requires large-scale global support, including the integration of resources from societies and nations across borders to foster a sustainability that transcends national interests. Community experiments worldwide should be closely linked with standardization efforts to achieve digital democracy and the co-prosperity of a pluralistic society through networks of digital ministers similar to those in Taiwan. This mirrors the early construction plans of the Internet (like the ARPANET-funded network of research labs) and extends it to our current multipolar world.
     
 ### 7-1 Conclusion
 
