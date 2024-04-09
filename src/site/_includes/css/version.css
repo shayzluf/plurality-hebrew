@@ -122,6 +122,10 @@
   padding-bottom: var(--padding-step-4);
 }
 
+#version-md img {
+  max-width: 100%;
+}
+
 #version-md > *, #version-md > * > *,
 #version-md > * > * > *, #version-md > * > * > * > * {
   font-family: var(--font-family-alt);
