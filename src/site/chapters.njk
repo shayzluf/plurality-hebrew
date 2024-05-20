@@ -371,7 +371,7 @@ setMode(urlParameters);
 function setMode(urlParameters) {
   let languageSelected;
 
-  if (urlParameters[0]) {
+  if (urlParameters.get("lang")) {
       languageSelected = urlParameters.get("lang");
   } else {
       languageSelected = "en";
