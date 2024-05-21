@@ -1,5 +1,3 @@
-## רַבִּים: עתיד טכנולוגיית שיתוף הפעולה ודמוקרטיה
-
 ---
 title: 'Plurality: The Future of Collaborative Technology and Democracy'
 githubLink:
