@@ -7,7 +7,7 @@ translations:
     plurality: 'רַבִּים',
     subtitle: 'עתיד טכנולוגיית שיתוף הפעולה ודמוקרטיה',
     authorsLead: 'E. Glen Weyl, Audrey Tang ו- ⿻ קהילה',
-    translatorsLead: 'תורגם על ידי:',
+    translatorsLead: 'תורגם על ידי:שי',
     return: 'חזרה',
     chapters: 'פרקים',
   }
